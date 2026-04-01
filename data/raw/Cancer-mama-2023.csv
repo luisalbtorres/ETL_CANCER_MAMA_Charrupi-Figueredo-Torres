@@ -1,0 +1,238 @@
+codigo_sspm;fec_not;cod_divipola;ciudad;dpto;edad_;sexo_;tip_ss_;per_etn_;fec_con_;ini_sin_;fec_pro_co;fec_res_bi;res_biops9;grad_histo;fecha_corte;fecha_reporte_web
+1;3-ene-23;76948;Cali;Valle;68;femenino;contributivo;otro;2-ene-23;22-nov-22;22-nov-22;22-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+2;4-ene-23;76951;Cali;Valle;61;femenino;subsidiado;otro;2-ene-23;2-nov-22;28-nov-22;2-dic-22;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+3;5-ene-23;76947;Cali;Valle;75;femenino;contributivo;otro;24-nov-22;24-oct-22;13-nov-22;23-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+4;5-ene-23;76949;Cali;Valle;63;femenino;contributivo;otro;10-dic-22;11-nov-21;28-nov-22;6-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+5;6-ene-23;76950;Cali;Valle;47;femenino;contributivo;otro;6-ene-23;1-oct-22;31-dic-22;5-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+6;10-ene-23;76957;Cali;Valle;65;femenino;subsidiado;otro;3-nov-22;3-oct-22;13-dic-22;26-dic-22;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+7;11-ene-23;76955;Cali;Valle;27;femenino;contributivo;otro;10-ene-23;1-ene-22;7-dic-22;16-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+8;12-ene-23;76956;Cali;Valle;63;femenino;subsidiado;otro;12-ene-23;30-nov-22;28-nov-22;2-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+9;12-ene-23;76958;Cali;Valle;39;femenino;contributivo;otro;12-dic-22;25-nov-22;15-dic-22;30-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+10;12-ene-23;76959;Cali;Valle;49;femenino;contributivo;otro;21-dic-22;14-dic-22;30-dic-22;11-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+11;12-ene-23;76960;Cali;Valle;68;femenino;contributivo;otro;9-dic-22;4-sep-22;14-dic-22;29-dic-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+12;12-ene-23;76961;Cali;Valle;57;femenino;contributivo;otro;15-dic-22;2-dic-22;21-dic-22;31-dic-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+13;13-ene-23;76952;Cali;Valle;47;femenino;contributivo;otro;10-nov-22;26-oct-22;9-jul-22;18-jul-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+14;13-ene-23;76953;Cali;Valle;29;femenino;contributivo;otro;19-ago-22;12-jul-22;12-jul-22;22-jul-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+15;13-ene-23;76954;Cali;Valle;76;femenino;contributivo;otro;3-feb-22;26-ene-22;22-ene-22;31-ene-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+16;16-ene-23;76965;Cali;Valle;60;femenino;subsidiado;otro;5-ene-23;21-feb-22;22-dic-22;29-dic-22;#N/A;infiltrante;27-mar-23;15-abr-23
+17;16-ene-23;76967;Cali;Valle;58;femenino;contributivo;otro;11-ene-23;22-dic-22;  -   -;6-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+18;16-ene-23;76973;Cali;Valle;81;femenino;contributivo;otro;11-ene-23;1-abr-20;26-nov-22;30-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+19;17-ene-23;76966;Cali;Valle;56;femenino;contributivo;otro;19-dic-22;1-dic-22;7-dic-22;15-dic-22;#N/A;infiltrante;27-mar-23;15-abr-23
+20;17-ene-23;76968;Cali;Valle;50;femenino;contributivo;otro;19-dic-22;19-nov-22;5-dic-22;14-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+21;17-ene-23;76970;Cali;Valle;39;femenino;contributivo;otro;20-dic-22;24-nov-22;10-dic-22;19-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+22;17-ene-23;76977;Cali;Valle;50;femenino;contributivo;otro;5-dic-22;5-dic-22;10-nov-22;27-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+23;18-ene-23;76963;Cali;Valle;66;femenino;contributivo;otro;17-ene-23;1-nov-22;14-dic-22;23-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+24;18-ene-23;76969;Cali;Valle;44;femenino;contributivo;otro;17-ene-23;1-nov-22;27-dic-22;2-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+25;18-ene-23;76971;Cali;Valle;51;femenino;contributivo;otro;11-nov-22;1-oct-22;18-nov-22;28-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+26;18-ene-23;76972;Cali;Valle;60;femenino;contributivo;otro;30-nov-22;25-oct-22;26-oct-22;26-oct-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+27;18-ene-23;76974;Cali;Valle;50;femenino;contributivo;otro;30-nov-22;1-nov-22;15-nov-22;25-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+28;18-ene-23;76976;Cali;Valle;49;femenino;contributivo;otro;12-ene-23;19-nov-22;21-dic-22;6-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+29;20-ene-23;76962;Cali;Valle;55;femenino;contributivo;otro;19-ene-23;28-oct-22;28-oct-22;28-oct-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+30;20-ene-23;76964;Cali;Valle;55;femenino;contributivo;otro;19-ene-23;11-ene-23;11-ene-23;11-ene-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+31;20-ene-23;76975;Cali;Valle;71;femenino;contributivo;otro;20-ene-23;1-jul-22;4-oct-22;23-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+32;20-ene-23;76978;Cali;Valle;66;femenino;contributivo;otro;11-oct-22;20-sep-22;20-sep-22;11-oct-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+33;23-ene-23;76979;Cali;Valle;58;femenino;contributivo;otro;4-ene-23;26-oct-22;22-nov-22;28-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+34;23-ene-23;76981;Cali;Valle;63;femenino;contributivo;afrocolombiano;30-dic-22;6-ene-22;14-dic-22;23-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+35;23-ene-23;76982;Cali;Valle;57;femenino;contributivo;otro;5-ene-23;15-oct-22;21-dic-22;30-dic-22;carcinoma lobulillar;infiltrante;27-mar-23;15-abr-23
+36;23-ene-23;76983;Cali;Valle;41;femenino;contributivo;otro;4-ene-23;10-sep-22;15-dic-22;24-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+37;23-ene-23;76984;Cali;Valle;56;femenino;contributivo;otro;4-ene-23;12-oct-22;21-dic-22;29-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+38;23-ene-23;76985;Cali;Valle;52;femenino;contributivo;otro;30-dic-22;31-oct-22;29-nov-22;30-nov-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+39;23-ene-23;76986;Cali;Valle;68;femenino;contributivo;otro;5-ene-23;15-oct-22;22-dic-22;3-ene-23;#N/A;infiltrante;27-mar-23;15-abr-23
+40;23-ene-23;76988;Cali;Valle;57;femenino;contributivo;otro;30-dic-22;18-nov-22;17-dic-22;22-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+41;23-ene-23;76989;Cali;Valle;55;femenino;contributivo;otro;30-dic-22;6-ene-22;14-dic-22;23-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+42;23-ene-23;76991;Cali;Valle;53;femenino;contributivo;otro;4-ene-23;12-oct-22;22-dic-22;29-dic-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+43;23-ene-23;76994;Cali;Valle;49;femenino;subsidiado;otro;5-ene-23;1-sep-22;22-dic-22;30-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+44;23-ene-23;76995;Cali;Valle;33;femenino;contributivo;otro;4-ene-23;18-oct-22;9-dic-22;19-dic-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+45;23-ene-23;76997;Cali;Valle;68;femenino;contributivo;otro;23-ene-23;2-ene-23;2-ene-23;2-ene-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+46;23-ene-23;76998;Cali;Valle;84;femenino;contributivo;otro;4-ene-23;26-sep-22;9-dic-22;19-dic-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+47;23-ene-23;77000;Cali;Valle;49;femenino;contributivo;otro;30-dic-22;6-sep-22;14-dic-22;23-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+48;26-ene-23;76980;Cali;Valle;61;femenino;contributivo;otro;13-ene-23;1-nov-20;15-dic-22;24-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+49;26-ene-23;76987;Cali;Valle;70;femenino;contributivo;otro;18-ene-23;6-ene-23;6-ene-23;12-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+50;26-ene-23;76992;Cali;Valle;83;femenino;contributivo;otro;10-ene-23;1-ene-19;28-dic-22;28-dic-22;carcinoma lobulillar;infiltrante;27-mar-23;15-abr-23
+51;26-ene-23;76996;Cali;Valle;51;femenino;contributivo;otro;11-ene-23;1-dic-22;1-dic-22;7-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+52;26-ene-23;76999;Cali;Valle;61;femenino;contributivo;otro;16-ene-23;15-dic-22;5-ene-23;12-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+53;26-ene-23;77001;Cali;Valle;65;femenino;subsidiado;otro;23-ene-23;3-ene-23;11-ene-23;18-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+54;26-ene-23;77002;Cali;Valle;40;femenino;contributivo;otro;19-ene-23;22-dic-22;5-ene-23;13-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+55;26-ene-23;77003;Cali;Valle;60;femenino;contributivo;otro;19-ene-23;18-nov-22;29-dic-22;6-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+56;26-ene-23;77005;Cali;Valle;60;femenino;subsidiado;otro;19-ene-23;13-may-20;14-dic-22;26-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+57;27-ene-23;76990;Cali;Valle;23;femenino;contributivo;otro;27-ene-23;23-ene-23;16-ene-23;23-ene-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+58;27-ene-23;76993;Cali;Valle;71;femenino;subsidiado;otro;25-ene-23;11-ene-23;18-ene-23;23-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+59;28-ene-23;77004;Cali;Valle;74;femenino;subsidiado;otro;5-ene-23;9-oct-22;6-ene-23;24-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+60;28-ene-23;77006;Cali;Valle;58;femenino;contributivo;otro;14-ene-23;10-oct-22;14-ene-23;28-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+61;30-ene-23;77009;Cali;Valle;66;femenino;contributivo;otro;28-ene-23;12-dic-22;19-ene-23;25-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+62;30-ene-23;77015;Cali;Valle;58;femenino;contributivo;otro;27-ene-23;17-ene-23;17-ene-23;17-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+63;30-ene-23;77020;Cali;Valle;53;femenino;contributivo;otro;27-ene-23;16-dic-22;16-dic-22;16-dic-22;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+64;31-ene-23;77011;Cali;Valle;49;femenino;contributivo;otro;18-ene-23;29-dic-22;4-ene-23;13-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+65;31-ene-23;77017;Cali;Valle;67;femenino;contributivo;otro;31-ene-23;19-ene-23;19-ene-23;26-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+66;31-ene-23;77031;Cali;Valle;39;femenino;contributivo;otro;23-ene-23;1-oct-22;4-ene-23;12-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+67;1-feb-23;77010;Cali;Valle;60;femenino;contributivo;otro;26-ene-23;7-ene-23;18-ene-23;24-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+68;1-feb-23;77019;Cali;Valle;84;femenino;contributivo;otro;31-ene-23;1-dic-22;16-ene-23;20-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+69;1-feb-23;77024;Cali;Valle;68;femenino;contributivo;otro;27-ene-23;1-ene-23;18-ene-23;20-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+70;1-feb-23;77026;Cali;Valle;57;femenino;contributivo;otro;31-ene-23;30-nov-22;11-ene-23;16-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+71;2-feb-23;77014;Cali;Valle;67;femenino;contributivo;otro;2-feb-23;25-ago-22;23-ene-23;26-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+72;2-feb-23;77018;Cali;Valle;89;femenino;contributivo;otro;1-feb-23;1-jul-22;12-ene-23;18-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+73;3-feb-23;77007;Cali;Valle;74;femenino;contributivo;otro;19-dic-22;9-nov-22;22-dic-22;2-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+74;3-feb-23;77008;Cali;Valle;70;femenino;contributivo;otro;2-feb-23;22-jul-22;26-ene-23;26-ene-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+75;3-feb-23;77012;Cali;Valle;53;femenino;contributivo;otro;24-nov-22;10-nov-22;30-nov-22;2-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+76;3-feb-23;77013;Cali;Valle;45;femenino;contributivo;otro;31-oct-22;23-sep-22;9-nov-22;18-nov-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+77;3-feb-23;77016;Cali;Valle;59;femenino;contributivo;otro;11-nov-22;28-jun-22;23-nov-22;30-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+78;3-feb-23;77021;Cali;Valle;62;femenino;contributivo;otro;30-nov-22;16-nov-22;7-dic-22;20-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+79;3-feb-23;77022;Cali;Valle;52;femenino;contributivo;otro;30-nov-22;5-nov-22;20-nov-22;30-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+80;3-feb-23;77023;Cali;Valle;59;femenino;contributivo;otro;9-nov-22;19-oct-22;17-nov-22;26-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+81;3-feb-23;77025;Cali;Valle;56;femenino;contributivo;otro;19-dic-22;18-nov-22;22-dic-22;30-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+82;3-feb-23;77027;Cali;Valle;45;femenino;contributivo;otro;22-nov-22;31-oct-22;1-dic-22;7-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+83;3-feb-23;77028;Cali;Valle;74;femenino;contributivo;otro;16-nov-22;21-jul-22;23-nov-22;20-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+84;3-feb-23;77029;Cali;Valle;85;femenino;contributivo;otro;30-nov-22;16-nov-22;1-dic-22;13-dic-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+85;3-feb-23;77030;Cali;Valle;65;femenino;contributivo;otro;16-nov-22;26-oct-22;23-nov-22;30-dic-22;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+86;3-feb-23;77032;Cali;Valle;48;femenino;contributivo;otro;1-dic-22;20-oct-22;24-nov-22;28-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+87;3-feb-23;77033;Cali;Valle;91;femenino;contributivo;otro;6-dic-22;27-ago-22;25-nov-22;28-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+88;6-feb-23;77038;Cali;Valle;58;femenino;contributivo;otro;24-ene-23;1-dic-22;11-ene-23;21-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+89;6-feb-23;77039;Cali;Valle;41;femenino;contributivo;otro;24-ene-23;1-ene-23;10-ene-23;21-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+90;6-feb-23;77040;Cali;Valle;62;femenino;contributivo;otro;4-ene-23;20-dic-22;5-ene-23;17-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+91;6-feb-23;77041;Cali;Valle;53;femenino;contributivo;otro;6-feb-23;31-ene-23;31-ene-23;31-ene-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+92;6-feb-23;77044;Cali;Valle;62;femenino;contributivo;otro;18-ene-23;18-ene-23;25-ene-23;6-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+93;6-feb-23;77046;Cali;Valle;34;femenino;contributivo;otro;2-feb-23;17-oct-22;30-ene-23;6-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+94;6-feb-23;77048;Cali;Valle;52;femenino;contributivo;otro;2-ene-23;1-oct-22;23-dic-22;27-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+95;6-feb-23;77049;Cali;Valle;48;femenino;contributivo;otro;6-feb-23;16-nov-22;1-feb-23;1-feb-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+96;6-feb-23;77051;Cali;Valle;47;femenino;contributivo;otro;27-ene-23;3-oct-22;19-ene-23;25-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+97;6-feb-23;77052;Cali;Valle;33;femenino;contributivo;otro;27-dic-22;20-sep-22;20-nov-22;29-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+98;6-feb-23;77054;Cali;Valle;58;femenino;contributivo;otro;1-feb-23;6-ene-23;23-ene-23;24-ene-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+99;6-feb-23;77055;Cali;Valle;52;femenino;subsidiado;otro;6-feb-23;7-dic-22;19-dic-22;22-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+100;6-feb-23;77056;Cali;Valle;64;femenino;contributivo;otro;3-feb-23;1-ene-23;25-ene-23;31-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+101;6-feb-23;77057;Cali;Valle;63;femenino;contributivo;otro;25-ene-23;1-ene-23;5-ene-23;12-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+102;6-feb-23;77059;Cali;Valle;66;femenino;contributivo;otro;1-feb-23;13-sep-22;23-ene-23;30-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+103;7-feb-23;77036;Cali;Valle;69;femenino;contributivo;otro;7-feb-23;26-ene-23;26-ene-23;31-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+104;7-feb-23;77042;Cali;Valle;44;femenino;subsidiado;otro;1-feb-23;20-dic-22;24-ene-23;30-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+105;7-feb-23;77043;Cali;Valle;53;femenino;contributivo;otro;7-feb-23;1-jul-22;27-ene-23;1-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+106;7-feb-23;77058;Cali;Valle;56;femenino;contributivo;otro;20-ene-23;3-mar-22;12-ene-23;24-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+107;7-feb-23;77061;Cali;Valle;86;femenino;contributivo;otro;21-ene-23;9-ene-22;31-dic-22;14-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+108;7-feb-23;77063;Cali;Valle;60;femenino;contributivo;otro;12-ene-23;13-nov-22;3-ene-23;18-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+109;7-feb-23;77064;Cali;Valle;42;femenino;contributivo;otro;10-ene-23;20-nov-22;27-dic-22;11-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+110;7-feb-23;77065;Cali;Valle;68;femenino;excepcion;otro;11-ene-23;20-mar-22;12-dic-22;27-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+111;8-feb-23;77047;Cali;Valle;41;femenino;contributivo;otro;7-feb-23;1-dic-22;31-ene-23;3-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+112;8-feb-23;77050;Cali;Valle;82;femenino;contributivo;otro;7-feb-23;1-ene-22;20-ene-23;20-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+113;8-feb-23;77060;Cali;Valle;63;femenino;contributivo;otro;26-ene-23;3-abr-22;25-ene-23;2-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+114;9-feb-23;77062;Cali;Valle;74;femenino;contributivo;otro;2-feb-23;2-ene-23;2-feb-23;9-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+115;10-feb-23;77034;Cali;Valle;60;femenino;contributivo;otro;6-feb-23;14-ene-23;26-ene-23;2-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+116;10-feb-23;77035;Cali;Valle;61;femenino;contributivo;otro;6-feb-23;1-dic-22;27-ene-23;31-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+117;10-feb-23;77037;Cali;Valle;72;femenino;contributivo;otro;3-feb-23;10-oct-22;26-ene-23;1-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+118;10-feb-23;77045;Cali;Valle;65;femenino;contributivo;otro;3-feb-23;19-ene-23;19-ene-23;27-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+119;10-feb-23;77053;Cali;Valle;72;femenino;contributivo;otro;10-feb-23;1-feb-23;2-feb-23;7-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+120;13-feb-23;77067;Cali;Valle;63;femenino;contributivo;otro;13-feb-23;2-feb-23;2-feb-23;8-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+121;13-feb-23;77071;Cali;Valle;66;femenino;contributivo;raizal ;10-feb-23;6-ene-23;2-feb-23;10-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+122;15-feb-23;77073;Cali;Valle;29;masculino;contributivo;#N/A;15-feb-23;15-feb-23;12-ene-23;18-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+123;16-feb-23;77068;Cali;Valle;45;femenino;contributivo;otro;16-feb-23;15-dic-22;9-feb-23;9-feb-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+124;16-feb-23;77070;Cali;Valle;74;femenino;contributivo;otro;15-feb-23;23-ene-23;3-feb-23;3-feb-23;carcinoma lobulillar;no indicado;27-mar-23;15-abr-23
+125;16-feb-23;77072;Cali;Valle;66;femenino;contributivo;otro;9-feb-23;9-feb-23;9-feb-23;15-feb-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+126;17-feb-23;77066;Cali;Valle;72;femenino;contributivo;otro;16-feb-23;1-dic-22;6-feb-23;6-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+127;17-feb-23;77069;Cali;Valle;42;femenino;subsidiado;otro;16-feb-23;16-jul-22;26-ene-23;9-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+128;20-feb-23;77080;Cali;Valle;49;femenino;contributivo;otro;8-feb-23;13-dic-21;19-ene-23;27-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+129;21-feb-23;77077;Cali;Valle;50;femenino;subsidiado;otro;20-feb-23;21-ago-22;21-oct-22;21-oct-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+130;22-feb-23;77074;Cali;Valle;76;femenino;contributivo;otro;21-feb-23;19-dic-22;20-dic-22;20-dic-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+131;22-feb-23;77081;Cali;Valle;74;femenino;excepcion;otro;21-feb-23;25-ene-23;30-ene-23;30-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+132;23-feb-23;77078;Cali;Valle;77;femenino;contributivo;otro;21-feb-23;12-ene-23;2-feb-23;2-feb-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+133;24-feb-23;77076;Cali;Valle;71;femenino;contributivo;otro;23-feb-23;22-dic-22;15-feb-23;17-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+134;24-feb-23;77079;Cali;Valle;92;femenino;contributivo;otro;19-ene-23;19-ene-23;19-ene-23;31-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+135;25-feb-23;77075;Cali;Valle;66;femenino;contributivo;raizal ;24-feb-23;16-ene-23;13-feb-23;21-feb-23;carcinoma lobulillar;infiltrante;27-mar-23;15-abr-23
+136;27-feb-23;77084;Cali;Valle;54;femenino;contributivo;otro;16-feb-23;16-ene-23;16-feb-23;22-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+137;28-feb-23;77082;Cali;Valle;41;femenino;contributivo;otro;28-feb-23;1-abr-22;14-dic-22;14-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+138;28-feb-23;77083;Cali;Valle;81;femenino;contributivo;otro;28-feb-23;1-feb-21;21-feb-23;21-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+139;28-feb-23;77087;Cali;Valle;48;femenino;contributivo;otro;25-feb-23;13-feb-20;20-ene-23;20-ene-23;carcinoma lobulillar;in-situ;27-mar-23;15-abr-23
+140;28-feb-23;77088;Cali;Valle;60;femenino;contributivo;otro;25-feb-23;16-jun-22;17-feb-23;17-feb-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+141;28-feb-23;77090;Cali;Valle;74;femenino;contributivo;otro;21-feb-23;10-ene-23;22-feb-23;27-feb-23;carcinoma lobulillar;in-situ;27-mar-23;15-abr-23
+142;28-feb-23;77091;Cali;Valle;60;femenino;contributivo;otro;22-feb-23;10-ene-23;23-feb-23;28-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+143;28-feb-23;77093;Cali;Valle;56;femenino;contributivo;otro;24-feb-23;1-feb-22;28-ene-23;28-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+144;28-feb-23;77096;Cali;Valle;85;femenino;contributivo;otro;23-feb-23;21-feb-23;16-feb-23;21-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+145;1-mar-23;77089;Cali;Valle;55;femenino;contributivo;otro;1-mar-23;26-feb-23;26-feb-23;26-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+146;1-mar-23;77095;Cali;Valle;71;femenino;subsidiado;otro;1-mar-23;9-feb-23;21-feb-23;27-feb-23;carcinoma lobulillar;infiltrante;27-mar-23;15-abr-23
+147;3-mar-23;77085;Cali;Valle;55;femenino;subsidiado;otro;2-mar-23;14-feb-23;21-feb-23;27-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+148;3-mar-23;77092;Cali;Valle;86;femenino;subsidiado;otro;2-mar-23;14-feb-23;21-feb-23;27-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+149;3-mar-23;77094;Cali;Valle;49;femenino;no afiliado;otro;1-sep-22;4-ago-22;26-ago-22;30-ago-22;carcinoma lobulillar;no indicado;27-mar-23;15-abr-23
+150;4-mar-23;77086;Cali;Valle;44;femenino;contributivo;otro;2-mar-23;2-nov-22;7-feb-23;7-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+151;6-mar-23;77097;Cali;Valle;38;femenino;contributivo;otro;15-feb-23;27-ene-23;2-feb-23;10-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+152;6-mar-23;77098;Cali;Valle;59;femenino;contributivo;otro;9-feb-23;24-ene-23;27-ene-23;7-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+153;6-mar-23;77099;Cali;Valle;56;femenino;contributivo;otro;6-mar-23;9-sep-22;23-feb-23;3-mar-23;carcinoma lobulillar;no indicado;27-mar-23;15-abr-23
+154;6-mar-23;77100;Cali;Valle;53;femenino;contributivo;otro;22-ago-22;2-mar-22;10-ago-22;21-ago-22;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+155;6-mar-23;77104;Cali;Valle;77;femenino;contributivo;otro;8-feb-23;1-oct-22;12-nov-22;26-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+156;6-mar-23;77107;Cali;Valle;67;femenino;contributivo;otro;20-feb-23;25-ene-23;15-feb-23;15-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+157;6-mar-23;77108;Cali;Valle;59;femenino;contributivo;otro;15-feb-23;3-ene-23;10-feb-23;10-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+158;6-mar-23;77110;Cali;Valle;31;femenino;contributivo;otro;17-feb-23;17-feb-23;7-feb-23;14-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+159;6-mar-23;77113;Cali;Valle;62;femenino;contributivo;otro;15-feb-23;1-feb-23;2-feb-23;13-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+160;6-mar-23;77117;Cali;Valle;73;femenino;contributivo;otro;25-abr-22;1-ene-21;19-abr-22;27-abr-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+161;6-mar-23;77121;Cali;Valle;63;femenino;contributivo;otro;14-feb-23;26-dic-22;2-feb-23;7-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+162;6-mar-23;77128;Cali;Valle;37;femenino;contributivo;otro;15-feb-23;1-feb-23;6-feb-23;13-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+163;7-mar-23;77101;Cali;Valle;65;femenino;contributivo;otro;6-mar-23;9-sep-22;23-feb-23;23-feb-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+164;7-mar-23;77102;Cali;Valle;56;femenino;contributivo;otro;6-mar-23;2-jul-22;27-feb-23;27-feb-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+165;7-mar-23;77103;Cali;Valle;73;masculino;contributivo;otro;17-feb-23;2-feb-23;9-feb-23;15-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+166;7-mar-23;77112;Cali;Valle;74;femenino;contributivo;otro;21-feb-23;1-sep-22;20-dic-22;3-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+167;8-mar-23;77114;Cali;Valle;46;femenino;contributivo;otro;7-mar-23;1-feb-23;14-feb-23;14-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+168;8-mar-23;77118;Cali;Valle;74;femenino;contributivo;otro;16-nov-22;10-jun-22;20-oct-22;2-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+169;8-mar-23;77119;Cali;Valle;56;femenino;contributivo;otro;1-dic-22;15-ago-22;15-nov-22;29-nov-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+170;8-mar-23;77120;Cali;Valle;57;femenino;contributivo;otro;28-ene-23;10-oct-22;22-dic-22;10-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+171;8-mar-23;77123;Cali;Valle;66;femenino;contributivo;otro;24-nov-22;10-oct-22;18-nov-22;30-nov-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+172;8-mar-23;77126;Cali;Valle;73;femenino;contributivo;otro;23-feb-23;23-dic-22;3-dic-22;18-dic-22;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+173;8-mar-23;77127;Cali;Valle;79;femenino;contributivo;otro;19-ene-23;10-ene-22;18-dic-22;30-dic-22;carcinoma lobulillar;infiltrante;27-mar-23;15-abr-23
+174;9-mar-23;77105;Cali;Valle;48;femenino;contributivo;otro;7-mar-23;7-mar-23;7-mar-23;7-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+175;9-mar-23;77122;Cali;Valle;29;femenino;contributivo;otro;22-feb-23;1-ene-23;26-ene-23;7-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+176;9-mar-23;77124;Cali;Valle;76;femenino;contributivo;otro;9-feb-23;10-ene-23;26-ene-23;8-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+177;9-mar-23;77125;Cali;Valle;63;femenino;contributivo;otro;26-may-22;10-feb-22;19-abr-22;30-abr-22;carcinoma lobulillar;infiltrante;27-mar-23;15-abr-23
+178;10-mar-23;77106;Cali;Valle;71;femenino;contributivo;otro;8-feb-23;28-dic-22;17-ene-23;25-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+179;10-mar-23;77109;Cali;Valle;92;femenino;contributivo;otro;21-dic-22;10-nov-22;31-dic-22;4-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+180;10-mar-23;77111;Cali;Valle;74;femenino;contributivo;otro;26-dic-22;25-nov-22;4-ene-23;17-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+181;10-mar-23;77115;Cali;Valle;75;femenino;contributivo;otro;11-ene-23;7-dic-22;17-ene-23;1-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+182;10-mar-23;77116;Cali;Valle;82;femenino;contributivo;otro;18-ene-23;4-nov-22;26-ene-23;6-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+183;14-mar-23;77131;Cali;Valle;67;femenino;contributivo;otro;14-mar-23;14-feb-23;6-mar-23;6-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+184;14-mar-23;77132;Cali;Valle;55;femenino;contributivo;otro;24-feb-23;1-jun-22;2-feb-23;10-feb-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+185;14-mar-23;77133;Cali;Valle;49;femenino;contributivo;otro;24-feb-23;15-feb-23;15-feb-23;21-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+186;14-mar-23;77134;Cali;Valle;57;femenino;contributivo;otro;2-mar-23;16-ene-23;20-feb-23;28-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+187;14-mar-23;77135;Cali;Valle;78;femenino;contributivo;otro;15-feb-23;1-nov-22;6-feb-23;13-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+188;14-mar-23;77137;Cali;Valle;44;femenino;contributivo;otro;14-feb-23;22-ene-23;26-ene-23;13-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+189;14-mar-23;77138;Cali;Valle;68;femenino;contributivo;otro;14-mar-23;1-jun-22;3-mar-23;8-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+190;14-mar-23;77140;Cali;Valle;56;femenino;contributivo;otro;15-feb-23;10-jun-22;2-feb-23;10-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+191;15-mar-23;77136;Cali;Valle;34;femenino;contributivo;otro;14-mar-23;1-mar-22;2-mar-23;2-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+192;15-mar-23;77144;Cali;Valle;40;femenino;contributivo;otro;8-mar-23;27-dic-22;8-mar-23;14-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+193;16-mar-23;77146;Cali;Valle;62;femenino;contributivo;otro;21-ene-23;8-nov-22;22-dic-22;6-ene-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+194;16-mar-23;77148;Cali;Valle;64;femenino;contributivo;otro;16-nov-22;9-sep-22;30-nov-22;15-dic-22;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+195;17-mar-23;77129;Cali;Valle;48;femenino;contributivo;otro;10-feb-23;16-nov-22;16-feb-23;20-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+196;17-mar-23;77130;Cali;Valle;51;femenino;contributivo;otro;1-mar-23;30-ene-23;15-feb-23;20-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+197;17-mar-23;77139;Cali;Valle;44;femenino;contributivo;otro;3-mar-23;16-feb-23;16-feb-23;24-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+198;17-mar-23;77141;Cali;Valle;84;femenino;contributivo;otro;22-feb-23;1-ene-23;2-mar-23;6-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+199;17-mar-23;77142;Cali;Valle;43;femenino;contributivo;otro;4-feb-23;4-feb-23;22-feb-23;4-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+200;17-mar-23;77143;Cali;Valle;55;femenino;contributivo;otro;27-ene-23;25-ene-23;2-feb-23;14-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+201;18-mar-23;77145;Cali;Valle;83;femenino;contributivo;otro;16-feb-23;12-dic-22;2-feb-23;17-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+202;18-mar-23;77147;Cali;Valle;66;femenino;contributivo;otro;16-feb-23;2-ene-23;26-dic-22;10-ene-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+203;19-mar-23;77149;Cali;Valle;63;femenino;subsidiado;otro;15-mar-23;22-feb-23;7-mar-23;14-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+204;19-mar-23;77150;Cali;Valle;63;femenino;subsidiado;otro;15-mar-23;30-sep-22;7-mar-23;14-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+205;20-mar-23;77159;Cali;Valle;64;femenino;contributivo;otro;18-feb-23;9-sep-22;2-feb-23;17-feb-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+206;20-mar-23;77164;Cali;Valle;71;femenino;contributivo;otro;9-mar-23;9-oct-22;17-ene-23;1-feb-23;carcinoma lobulillar;infiltrante;27-mar-23;15-abr-23
+207;20-mar-23;77166;Cali;Valle;65;femenino;contributivo;otro;9-mar-23;1-ene-23;10-mar-23;16-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+208;20-mar-23;77167;Cali;Valle;65;femenino;subsidiado;otro;9-mar-23;10-ene-23;10-mar-23;16-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+209;21-mar-23;77155;Cali;Valle;67;femenino;subsidiado;otro;21-mar-23;21-ene-23;27-feb-23;6-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+210;21-mar-23;77156;Cali;Valle;49;femenino;subsidiado;otro;21-mar-23;27-feb-23;27-feb-23;9-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+211;22-mar-23;77163;Cali;Valle;55;femenino;contributivo;otro;3-mar-23;5-dic-22;16-feb-23;3-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+212;23-mar-23;77151;Cali;Valle;59;femenino;contributivo;otro;22-mar-23;1-oct-22;9-mar-23;15-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+213;23-mar-23;77152;Cali;Valle;53;femenino;contributivo;otro;21-mar-23;27-feb-23;16-mar-23;20-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+214;23-mar-23;77153;Cali;Valle;48;femenino;contributivo;otro;17-mar-23;17-sep-22;8-mar-23;8-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+215;23-mar-23;77154;Cali;Valle;43;femenino;contributivo;#N/A;21-mar-23;1-ene-23;10-mar-23;17-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+216;23-mar-23;77157;Cali;Valle;30;femenino;contributivo;rom ;16-mar-23;16-dic-22;4-mar-23;4-mar-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+217;23-mar-23;77160;Cali;Valle;51;femenino;contributivo;otro;21-mar-23;8-feb-23;3-mar-23;8-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+218;24-mar-23;77158;Cali;Valle;62;femenino;contributivo;otro;23-mar-23;23-ene-23;8-mar-23;8-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+219;24-mar-23;77161;Cali;Valle;49;femenino;contributivo;otro;24-mar-23;17-mar-23;17-mar-23;17-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+220;24-mar-23;77162;Cali;Valle;91;femenino;contributivo;otro;16-mar-23;16-mar-23;15-mar-23;23-mar-23;carcinoma lobulillar;no indicado;27-mar-23;15-abr-23
+221;24-mar-23;77165;Cali;Valle;39;femenino;contributivo;otro;1-mar-23;20-nov-22;14-mar-23;23-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+222;27-mar-23;77170;Cali;Valle;45;femenino;contributivo;otro;25-mar-23;25-sep-22;23-mar-23;23-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+223;28-mar-23;77168;Cali;Valle;52;femenino;contributivo;otro;27-mar-23;18-ene-23;18-ene-23;18-ene-23;carcinoma lobulillar;in-situ;27-mar-23;15-abr-23
+224;28-mar-23;77171;Cali;Valle;68;femenino;contributivo;otro;25-mar-23;23-sep-22;14-mar-23;14-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+225;28-mar-23;77172;Cali;Valle;65;femenino;contributivo;otro;25-mar-23;25-ene-23;15-mar-23;15-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+226;28-mar-23;77177;Cali;Valle;80;femenino;contributivo;otro;25-mar-23;18-mar-22;8-mar-23;8-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+227;28-mar-23;77178;Cali;Valle;81;femenino;contributivo;otro;23-mar-23;24-feb-23;12-mar-23;12-mar-23;carcinoma ductal;no indicado;27-mar-23;15-abr-23
+228;28-mar-23;77180;Cali;Valle;75;femenino;contributivo;otro;25-mar-23;3-feb-23;22-feb-23;22-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+229;29-mar-23;77182;Cali;Valle;69;femenino;contributivo;otro;22-mar-23;7-dic-22;20-feb-23;27-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+230;30-mar-23;77173;Cali;Valle;60;femenino;contributivo;otro;28-mar-23;31-ene-23;15-feb-23;15-feb-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+231;30-mar-23;77174;Cali;Valle;69;femenino;contributivo;otro;29-mar-23;1-mar-23;21-mar-23;22-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+232;30-mar-23;77175;Cali;Valle;45;femenino;contributivo;afrocolombiano;29-mar-23;1-nov-22;21-mar-23;24-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+233;30-mar-23;77176;Cali;Valle;83;femenino;contributivo;otro;30-mar-23;21-mar-23;21-mar-23;28-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+234;30-mar-23;77179;Cali;Valle;67;femenino;contributivo;otro;28-mar-23;3-oct-22;17-mar-23;27-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+235;31-mar-23;77169;Cali;Valle;62;femenino;no afiliado;otro;31-mar-23;30-mar-23;27-feb-23;31-mar-23;carcinoma ductal;in-situ;27-mar-23;15-abr-23
+236;31-mar-23;77181;Cali;Valle;80;femenino;contributivo;otro;10-mar-23;12-mar-22;24-mar-23;31-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23
+237;31-mar-23;77183;Cali;Valle;67;femenino;contributivo;otro;28-mar-23;20-nov-22;23-mar-23;30-mar-23;carcinoma ductal;infiltrante;27-mar-23;15-abr-23

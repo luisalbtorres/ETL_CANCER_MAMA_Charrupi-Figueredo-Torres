@@ -1,0 +1,1037 @@
+﻿caso_id,año_notificacion,semana_epidemiologica,departamento,municipio,area_residencia,sexo,grupo_edad,pertenencia_etnica,regimen_seguridad_social,tipo_cancer_mama,estadio_clinico,oportunidad_diagnostico_dias,oportunidad_tratamiento_dias,tipo_tratamiento,condicion_final
+1,2018,33,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,89,14,Cirugía + Quimioterapia + Radioterapia,Vivo
+2,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,54,11,Cirugía + Quimioterapia + Radioterapia,Vivo
+3,2018,44,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,101,38,Solo Quimioterapia,Vivo
+4,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma lobulillar in situ,Estadio III,204,68,Cirugía + Quimioterapia + Radioterapia,Vivo
+5,2018,17,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,50,107,Cirugía + Quimioterapia + Radioterapia,Vivo
+6,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,50,24,Cirugía + Quimioterapia,Vivo
+7,2018,47,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,213,70,Cirugía + Radioterapia,Fallecido
+8,2018,25,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Otros carcinomas,Estadio III,111,32,Quimioterapia + Radioterapia,Vivo
+9,2018,30,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,41,29,Cirugía + Quimioterapia + Radioterapia,Fallecido
+10,2018,9,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,45-49,Otro,Excepción,Carcinoma ductal invasivo,Estadio IV,93,61,Cirugía + Quimioterapia + Radioterapia,Vivo
+11,2018,21,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,41,52,Cirugía + Quimioterapia,Vivo
+12,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,41,10,Cirugía + Quimioterapia + Radioterapia,Vivo
+13,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,73,93,Cirugía + Quimioterapia + Radioterapia,Vivo
+14,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,13,87,Quimioterapia + Radioterapia,Vivo
+15,2018,12,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,15,21,Cirugía + Radioterapia,Vivo
+16,2018,37,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,38,43,Cirugía + Quimioterapia,Vivo
+17,2018,42,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Sin dato,26,46,Cirugía + Quimioterapia + Radioterapia,Fallecido
+18,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,77,39,Cirugía + Quimioterapia,Vivo
+19,2018,37,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,29,22,Cirugía + Quimioterapia,Vivo
+20,2018,48,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,19,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+21,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,194,32,Cirugía + Quimioterapia + Radioterapia,Vivo
+22,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio I,50,75,Cirugía + Quimioterapia + Radioterapia,Vivo
+23,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,63,48,Cirugía + Quimioterapia + Radioterapia,Vivo
+24,2018,35,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,19,25,Cirugía + Quimioterapia + Radioterapia,Vivo
+25,2018,47,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,39,56,Cirugía + Quimioterapia,Vivo
+26,2018,48,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,65,4,Cirugía + Quimioterapia,Vivo
+27,2018,18,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,24,74,Cirugía + Quimioterapia + Radioterapia,Vivo
+28,2018,14,Valle del Cauca,Cali,Rural Disperso,Mujer,65-69,Afrocolombiano,Subsidiado,Carcinoma ductal invasivo,Estadio III,81,9,Cirugía + Radioterapia,Vivo
+29,2018,35,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Otros carcinomas,Estadio I,37,25,Cirugía + Quimioterapia + Radioterapia,Vivo
+30,2018,44,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Afrocolombiano,Subsidiado,Carcinoma ductal invasivo,Estadio IV,47,15,Cirugía + Quimioterapia,Vivo
+31,2018,41,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,37,13,Cirugía + Quimioterapia,Fallecido
+32,2018,7,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,265,74,Quimioterapia + Radioterapia,Vivo
+33,2018,41,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,59,23,Quimioterapia + Radioterapia,Vivo
+34,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,25,42,Cirugía + Quimioterapia,Vivo
+35,2018,18,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,116,32,Cirugía + Quimioterapia + Radioterapia,Vivo
+36,2018,37,Valle del Cauca,Tuluá,Rural Disperso,Mujer,40-44,Otro,Contributivo,Otros carcinomas,Estadio I,22,46,Solo Cirugía,Vivo
+37,2018,13,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,55-59,Afrocolombiano,Contributivo,Carcinoma lobulillar invasivo,Estadio II,71,34,Solo Quimioterapia,Vivo
+38,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,12,13,Cirugía + Quimioterapia + Radioterapia,Vivo
+39,2018,31,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,20,66,Cirugía + Quimioterapia,Vivo
+40,2018,2,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,70,23,Cirugía + Radioterapia,Vivo
+41,2018,16,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,108,11,Cirugía + Quimioterapia + Radioterapia,Vivo
+42,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,69,24,Cirugía + Quimioterapia,Vivo
+43,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Sin dato,55,94,Cirugía + Quimioterapia,Vivo
+44,2018,38,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Otros carcinomas,Estadio II,47,60,Cirugía + Quimioterapia + Radioterapia,Vivo
+45,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,18,25,Cirugía + Quimioterapia,Vivo
+46,2018,22,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,33,25,Cirugía + Radioterapia,Vivo
+47,2018,33,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,45-49,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio IV,41,26,Cirugía + Quimioterapia + Radioterapia,Vivo
+48,2018,36,Valle del Cauca,Cali,Rural Disperso,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,140,141,Cirugía + Quimioterapia,Vivo
+49,2018,45,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,79,43,Cirugía + Quimioterapia,Vivo
+50,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,14,44,Solo Cirugía,Vivo
+51,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,78,68,Cirugía + Quimioterapia,Vivo
+52,2018,45,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,44,39,Cirugía + Quimioterapia + Radioterapia,Vivo
+53,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Otros carcinomas,Estadio IV,35,27,Cirugía + Quimioterapia,Vivo
+54,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,98,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+55,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Indeterminado,Carcinoma ductal invasivo,Sin dato,137,31,Quimioterapia + Radioterapia,Vivo
+56,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,127,32,Cirugía + Quimioterapia + Radioterapia,Vivo
+57,2018,7,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Estadio II,30,55,Cirugía + Quimioterapia,Vivo
+58,2018,36,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Otros carcinomas,Estadio II,47,34,Cirugía + Quimioterapia + Radioterapia,Vivo
+59,2018,18,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,78,55,Cirugía + Quimioterapia + Radioterapia,Vivo
+60,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,131,31,Quimioterapia + Radioterapia,Vivo
+61,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,41,34,Quimioterapia + Radioterapia,Vivo
+62,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,52,8,Solo Cirugía,Vivo
+63,2018,44,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,24,62,Cirugía + Radioterapia,Vivo
+64,2018,44,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,23,42,Cirugía + Radioterapia,Vivo
+65,2018,21,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Otros carcinomas,Estadio II,115,66,Cirugía + Radioterapia,Vivo
+66,2018,28,Valle del Cauca,Cali,Rural Disperso,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,178,4,Cirugía + Quimioterapia + Radioterapia,Vivo
+67,2018,40,Valle del Cauca,Cali,Rural Disperso,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,56,142,Quimioterapia + Radioterapia,Vivo
+68,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,134,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+69,2018,36,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Otros carcinomas,Estadio II,80,71,Quimioterapia + Radioterapia,Vivo
+70,2018,21,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,36,15,Cirugía + Quimioterapia,Vivo
+71,2018,43,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,80,50,Solo Cirugía,Vivo
+72,2018,35,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,206,15,Tratamiento paliativo,Vivo
+73,2018,13,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,58,21,Solo Quimioterapia,Vivo
+74,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,210,126,Cirugía + Radioterapia,Vivo
+75,2018,10,Valle del Cauca,Palmira,Rural Disperso,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,7,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+76,2018,44,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,116,38,Cirugía + Quimioterapia,Vivo
+77,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,64,60,Cirugía + Quimioterapia + Radioterapia,Vivo
+78,2018,10,Valle del Cauca,Buga,Cabecera Municipal,Mujer,35-39,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio III,47,46,Cirugía + Radioterapia,Vivo
+79,2018,46,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,64,36,Tratamiento paliativo,Vivo
+80,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,12,42,Tratamiento paliativo,Vivo
+81,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,50,178,Cirugía + Quimioterapia,Vivo
+82,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,80,31,Cirugía + Quimioterapia,Vivo
+83,2018,24,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,196,38,Cirugía + Quimioterapia + Radioterapia,Vivo
+84,2018,2,Valle del Cauca,Florida,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Otros carcinomas,Sin dato,39,69,Cirugía + Quimioterapia + Radioterapia,Vivo
+85,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Otros carcinomas,Estadio III,31,71,Cirugía + Quimioterapia,Vivo
+86,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,40,76,Solo Cirugía,Vivo
+87,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,125,51,Quimioterapia + Radioterapia,Vivo
+88,2018,14,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,78,14,Cirugía + Quimioterapia,Vivo
+89,2018,10,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,39,103,Cirugía + Quimioterapia,Vivo
+90,2018,35,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,90,14,Cirugía + Quimioterapia,Vivo
+91,2018,25,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,65,40,Cirugía + Quimioterapia,Vivo
+92,2018,3,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Otros carcinomas,Estadio II,130,19,Quimioterapia + Radioterapia,Vivo
+93,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,34,31,Cirugía + Quimioterapia + Radioterapia,Vivo
+94,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,46,41,Cirugía + Radioterapia,Vivo
+95,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,44,41,Cirugía + Quimioterapia,Vivo
+96,2018,12,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,18,44,Solo Quimioterapia,Vivo
+97,2018,52,Valle del Cauca,Cali,Rural Disperso,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,76,102,Cirugía + Quimioterapia + Radioterapia,Vivo
+98,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,74,45,Cirugía + Quimioterapia,Vivo
+99,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,60,27,Cirugía + Quimioterapia + Radioterapia,Vivo
+100,2018,43,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,80 y más,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio I,50,65,Cirugía + Quimioterapia + Radioterapia,Vivo
+101,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal in situ,Estadio I,19,76,Solo Cirugía,Vivo
+102,2018,36,Valle del Cauca,Buga,Rural Disperso,Mujer,50-54,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio I,43,14,Cirugía + Quimioterapia + Radioterapia,Vivo
+103,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,45,50,Solo Cirugía,Fallecido
+104,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,31,54,Cirugía + Quimioterapia + Radioterapia,Vivo
+105,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,53,26,Cirugía + Quimioterapia + Radioterapia,Vivo
+106,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,83,86,Solo Cirugía,Vivo
+107,2018,28,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,272,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+108,2018,16,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,69,36,Cirugía + Quimioterapia + Radioterapia,Vivo
+109,2018,47,Valle del Cauca,Buga,Rural Disperso,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,74,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+110,2018,17,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Estadio I,56,33,Solo Quimioterapia,Vivo
+111,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Sin dato,13,15,Solo Cirugía,Vivo
+112,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,59,12,Cirugía + Quimioterapia,Vivo
+113,2018,12,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,63,101,Cirugía + Quimioterapia + Radioterapia,Vivo
+114,2018,27,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma lobulillar in situ,Estadio III,432,18,Solo Cirugía,Vivo
+115,2018,42,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,51,16,Solo Quimioterapia,Vivo
+116,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,76,7,Solo Quimioterapia,Vivo
+117,2018,30,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,58,21,Cirugía + Quimioterapia + Radioterapia,Vivo
+118,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Estadio II,23,13,Cirugía + Quimioterapia,Vivo
+119,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,150,104,Cirugía + Quimioterapia + Radioterapia,Vivo
+120,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,110,67,Solo Quimioterapia,Vivo
+121,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,113,20,Cirugía + Quimioterapia,Vivo
+122,2018,7,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,29,160,Solo Cirugía,Vivo
+123,2018,32,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,185,65,Cirugía + Quimioterapia,Vivo
+124,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Otros carcinomas,Sin dato,19,26,Cirugía + Quimioterapia,Vivo
+125,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,96,5,Cirugía + Quimioterapia + Radioterapia,Vivo
+126,2018,33,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Otros carcinomas,Sin dato,348,164,Cirugía + Radioterapia,Vivo
+127,2018,7,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,27,12,Cirugía + Quimioterapia,Vivo
+128,2018,52,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,38,10,Cirugía + Quimioterapia,Vivo
+129,2018,12,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,65,67,Solo Cirugía,Vivo
+130,2018,16,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,40,182,Solo Cirugía,Vivo
+131,2018,16,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio IV,17,87,Quimioterapia + Radioterapia,Vivo
+132,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,63,49,Cirugía + Radioterapia,Vivo
+133,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,25,50,Cirugía + Quimioterapia + Radioterapia,Vivo
+134,2018,13,Valle del Cauca,Florida,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Otros carcinomas,Estadio I,88,60,Cirugía + Quimioterapia,Vivo
+135,2018,7,Valle del Cauca,Buga,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Otros carcinomas,Estadio I,28,56,Cirugía + Quimioterapia + Radioterapia,Vivo
+136,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,208,40,Cirugía + Quimioterapia + Radioterapia,Vivo
+137,2018,47,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio II,32,35,Cirugía + Quimioterapia + Radioterapia,Vivo
+138,2018,51,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,46,31,Tratamiento paliativo,Vivo
+139,2018,9,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,115,19,Cirugía + Radioterapia,Vivo
+140,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,22,27,Tratamiento paliativo,Vivo
+141,2018,11,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Otros carcinomas,Estadio III,72,10,Solo Cirugía,Vivo
+142,2018,8,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,171,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+143,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,16,16,Solo Quimioterapia,Vivo
+144,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Hombre,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,69,15,Cirugía + Quimioterapia,Fallecido
+145,2018,25,Valle del Cauca,Buga,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,74,37,Cirugía + Quimioterapia + Radioterapia,Vivo
+146,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,112,87,Cirugía + Quimioterapia + Radioterapia,Vivo
+147,2018,45,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,22,62,Cirugía + Quimioterapia + Radioterapia,Vivo
+148,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,No Asegurado,Carcinoma ductal invasivo,Estadio II,20,11,Solo Cirugía,Vivo
+149,2018,4,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio II,91,16,Cirugía + Radioterapia,Vivo
+150,2018,40,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,30-34,Afrocolombiano,Subsidiado,Carcinoma ductal invasivo,Estadio II,76,63,Tratamiento paliativo,Vivo
+151,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,73,16,Cirugía + Radioterapia,Vivo
+152,2018,29,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,79,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+153,2018,41,Valle del Cauca,Buga,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio III,35,48,Quimioterapia + Radioterapia,Vivo
+154,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,72,16,Cirugía + Quimioterapia + Radioterapia,Vivo
+155,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,76,35,Quimioterapia + Radioterapia,Vivo
+156,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,34,13,Cirugía + Quimioterapia,Vivo
+157,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,268,21,Cirugía + Quimioterapia,Vivo
+158,2018,13,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,88,41,Quimioterapia + Radioterapia,Vivo
+159,2018,15,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,23,10,Cirugía + Radioterapia,Vivo
+160,2018,23,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,102,45,Cirugía + Quimioterapia,Vivo
+161,2018,44,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,27,32,Solo Cirugía,Vivo
+162,2018,26,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio II,113,48,Solo Quimioterapia,Vivo
+163,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Otros carcinomas,Estadio II,152,38,Cirugía + Quimioterapia + Radioterapia,Fallecido
+164,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,31,86,Quimioterapia + Radioterapia,Vivo
+165,2018,40,Valle del Cauca,Buga,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,130,36,Solo Quimioterapia,Vivo
+166,2018,9,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,83,24,Cirugía + Quimioterapia + Radioterapia,Vivo
+167,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,116,36,Cirugía + Radioterapia,Vivo
+168,2018,32,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Otros carcinomas,Estadio I,275,48,Cirugía + Quimioterapia + Radioterapia,Fallecido
+169,2018,20,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,49,34,Cirugía + Radioterapia,Vivo
+170,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,No Asegurado,Carcinoma ductal invasivo,Estadio II,33,34,Cirugía + Quimioterapia,Vivo
+171,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,29,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+172,2018,15,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,31,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+173,2018,32,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,56,12,Cirugía + Quimioterapia,Vivo
+174,2018,28,Valle del Cauca,Buga,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Otros carcinomas,Estadio I,79,112,Cirugía + Quimioterapia + Radioterapia,Vivo
+175,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,75,13,Cirugía + Quimioterapia,Vivo
+176,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,116,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+177,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,60,20,Cirugía + Radioterapia,Vivo
+178,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Otros carcinomas,Estadio II,193,61,Quimioterapia + Radioterapia,Vivo
+179,2018,44,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,20-24,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,48,26,Cirugía + Quimioterapia,Vivo
+180,2018,7,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,531,79,Cirugía + Quimioterapia,Vivo
+181,2018,42,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,99,20,Tratamiento paliativo,Vivo
+182,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal in situ,Sin dato,30,40,Quimioterapia + Radioterapia,Vivo
+183,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,25,18,Cirugía + Radioterapia,Vivo
+184,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Otros carcinomas,Estadio I,88,148,Quimioterapia + Radioterapia,Vivo
+185,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,50,14,Cirugía + Quimioterapia + Radioterapia,Vivo
+186,2018,19,Valle del Cauca,Florida,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,106,41,Cirugía + Quimioterapia + Radioterapia,Vivo
+187,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,88,51,Cirugía + Quimioterapia,Vivo
+188,2018,13,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal in situ,Estadio III,56,44,Quimioterapia + Radioterapia,Vivo
+189,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,30,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+190,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,17,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+191,2018,4,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,42,34,Cirugía + Quimioterapia,Vivo
+192,2018,47,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,119,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+193,2018,31,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma lobulillar in situ,Estadio II,71,65,Cirugía + Quimioterapia + Radioterapia,Vivo
+194,2018,28,Valle del Cauca,Cali,Rural Disperso,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,22,155,Cirugía + Quimioterapia,Vivo
+195,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio I,69,22,Cirugía + Radioterapia,Vivo
+196,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,82,12,Quimioterapia + Radioterapia,Vivo
+197,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,29,31,Cirugía + Quimioterapia + Radioterapia,Vivo
+198,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio IV,68,201,Cirugía + Quimioterapia,Vivo
+199,2018,47,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,63,18,Cirugía + Quimioterapia,Vivo
+200,2018,52,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,24,104,Cirugía + Quimioterapia,Vivo
+201,2018,38,Valle del Cauca,Buga,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,80,107,Solo Cirugía,Vivo
+202,2018,24,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,94,22,Cirugía + Quimioterapia,Vivo
+203,2018,47,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,143,49,Cirugía + Quimioterapia + Radioterapia,Vivo
+204,2018,31,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,140,103,Quimioterapia + Radioterapia,Vivo
+205,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,20,25,Cirugía + Quimioterapia + Radioterapia,Vivo
+206,2018,46,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,28,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+207,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,91,22,Cirugía + Radioterapia,Vivo
+208,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,91,16,Cirugía + Quimioterapia + Radioterapia,Vivo
+209,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,91,21,Cirugía + Radioterapia,Vivo
+210,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,730,14,Cirugía + Quimioterapia + Radioterapia,Vivo
+211,2018,5,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,45-49,Afrocolombiano,Subsidiado,Carcinoma ductal invasivo,Estadio IV,95,33,Cirugía + Quimioterapia,Vivo
+212,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,149,19,Cirugía + Quimioterapia + Radioterapia,Vivo
+213,2018,52,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,129,39,Cirugía + Quimioterapia,Vivo
+214,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,101,11,Solo Cirugía,Vivo
+215,2018,11,Valle del Cauca,Florida,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Otros carcinomas,Estadio III,46,41,Cirugía + Quimioterapia + Radioterapia,Vivo
+216,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,110,59,Cirugía + Quimioterapia,Vivo
+217,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,32,8,Cirugía + Quimioterapia + Radioterapia,Vivo
+218,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,49,43,Cirugía + Quimioterapia,Fallecido
+219,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,40,78,Cirugía + Quimioterapia + Radioterapia,Vivo
+220,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,64,14,Cirugía + Radioterapia,Vivo
+221,2018,15,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,384,106,Cirugía + Radioterapia,Vivo
+222,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio II,13,44,Cirugía + Quimioterapia,Vivo
+223,2018,21,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,104,20,Solo Cirugía,Vivo
+224,2018,46,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Otros carcinomas,Estadio I,16,31,Quimioterapia + Radioterapia,Vivo
+225,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Otros carcinomas,Estadio II,41,48,Cirugía + Quimioterapia,Vivo
+226,2018,6,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,144,34,Quimioterapia + Radioterapia,Vivo
+227,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,63,48,Cirugía + Radioterapia,Vivo
+228,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,25,17,Cirugía + Radioterapia,Vivo
+229,2018,18,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio I,34,37,Cirugía + Quimioterapia,Vivo
+230,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,103,12,Cirugía + Radioterapia,Vivo
+231,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,33,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+232,2018,46,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio II,71,17,Quimioterapia + Radioterapia,Vivo
+233,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,62,19,Cirugía + Quimioterapia,Vivo
+234,2018,31,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Otros carcinomas,Estadio IV,35,78,Solo Quimioterapia,Vivo
+235,2018,30,Valle del Cauca,Buga,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,335,71,Quimioterapia + Radioterapia,Vivo
+236,2018,3,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,100,50,Cirugía + Radioterapia,Vivo
+237,2018,30,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,11,15,Cirugía + Quimioterapia + Radioterapia,Vivo
+238,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,70,26,Cirugía + Quimioterapia,Fallecido
+239,2018,29,Valle del Cauca,Jamundí,Cabecera Municipal,Hombre,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,35,77,Tratamiento paliativo,Vivo
+240,2018,8,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,119,36,Tratamiento paliativo,Vivo
+241,2018,44,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Estadio I,32,167,Cirugía + Quimioterapia + Radioterapia,Vivo
+242,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,55,43,Cirugía + Quimioterapia + Radioterapia,Vivo
+243,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,20-24,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,90,37,Cirugía + Radioterapia,Vivo
+244,2018,44,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,120,26,Cirugía + Quimioterapia,Vivo
+245,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Otros carcinomas,Estadio III,23,36,Cirugía + Quimioterapia,Vivo
+246,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,46,29,Cirugía + Radioterapia,Vivo
+247,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio IV,41,54,Cirugía + Quimioterapia + Radioterapia,Fallecido
+248,2018,11,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,35,64,Cirugía + Quimioterapia,Vivo
+249,2018,13,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,247,19,Cirugía + Radioterapia,Vivo
+250,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma lobulillar in situ,Sin dato,83,13,Cirugía + Quimioterapia + Radioterapia,Vivo
+251,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,22,9,Cirugía + Quimioterapia,Vivo
+252,2018,31,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,125,47,Cirugía + Quimioterapia + Radioterapia,Vivo
+253,2018,28,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,329,15,Cirugía + Quimioterapia + Radioterapia,Vivo
+254,2018,44,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,137,7,Cirugía + Quimioterapia + Radioterapia,Vivo
+255,2018,6,Valle del Cauca,Florida,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Estadio III,17,43,Cirugía + Radioterapia,Vivo
+256,2018,41,Valle del Cauca,Cali,Rural Disperso,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,40,189,Cirugía + Quimioterapia,Vivo
+257,2018,16,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,166,32,Solo Quimioterapia,Vivo
+258,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,34,59,Cirugía + Quimioterapia,Vivo
+259,2018,35,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,86,35,Cirugía + Quimioterapia + Radioterapia,Vivo
+260,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,112,30,Tratamiento paliativo,Vivo
+261,2018,26,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,28,63,Cirugía + Radioterapia,Vivo
+262,2018,12,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,57,27,Cirugía + Quimioterapia + Radioterapia,Vivo
+263,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,4,39,Cirugía + Quimioterapia,Vivo
+264,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,26,41,Cirugía + Quimioterapia,Vivo
+265,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,49,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+266,2018,18,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,22,66,Cirugía + Quimioterapia + Radioterapia,Vivo
+267,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma lobulillar in situ,Estadio II,222,29,Cirugía + Quimioterapia,Fallecido
+268,2018,23,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,19,19,Solo Quimioterapia,Vivo
+269,2018,38,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal in situ,Estadio IV,42,48,Solo Cirugía,Vivo
+270,2018,18,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,66,17,Cirugía + Quimioterapia + Radioterapia,Vivo
+271,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,191,33,Solo Cirugía,Vivo
+272,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,19,32,Cirugía + Quimioterapia + Radioterapia,Fallecido
+273,2018,4,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,153,70,Cirugía + Quimioterapia + Radioterapia,Fallecido
+274,2018,44,Valle del Cauca,Cali,Cabecera Municipal,Mujer,25-29,Otro,Subsidiado,Carcinoma ductal in situ,Estadio III,60,46,Cirugía + Radioterapia,Vivo
+275,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,27,32,Solo Quimioterapia,Vivo
+276,2018,29,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Otros carcinomas,Sin dato,87,58,Cirugía + Quimioterapia + Radioterapia,Vivo
+277,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Afrocolombiano,Subsidiado,Carcinoma ductal invasivo,Estadio II,70,87,Cirugía + Quimioterapia + Radioterapia,Vivo
+278,2018,17,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,37,48,Quimioterapia + Radioterapia,Vivo
+279,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,63,33,Cirugía + Quimioterapia + Radioterapia,Vivo
+280,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,44,13,Cirugía + Quimioterapia,Vivo
+281,2018,16,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,66,15,Quimioterapia + Radioterapia,Vivo
+282,2018,2,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio I,102,26,Cirugía + Quimioterapia,Vivo
+283,2018,34,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Otros carcinomas,Estadio II,214,21,Cirugía + Quimioterapia + Radioterapia,Vivo
+284,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Raizal,Contributivo,Carcinoma ductal invasivo,Estadio III,22,29,Tratamiento paliativo,Vivo
+285,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,332,34,Cirugía + Quimioterapia,Vivo
+286,2018,42,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,12,47,Cirugía + Quimioterapia + Radioterapia,Vivo
+287,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Indígena,Contributivo,Carcinoma lobulillar invasivo,Estadio III,53,31,Cirugía + Quimioterapia + Radioterapia,Fallecido
+288,2018,30,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio II,96,46,Cirugía + Quimioterapia + Radioterapia,Vivo
+289,2018,32,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,75,34,Solo Cirugía,Vivo
+290,2018,36,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,36,8,Cirugía + Quimioterapia,Vivo
+291,2018,47,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,51,17,Solo Cirugía,Vivo
+292,2018,30,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,40,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+293,2018,1,Valle del Cauca,Florida,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,37,14,Solo Cirugía,Vivo
+294,2018,43,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,119,50,Solo Quimioterapia,Vivo
+295,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,80,96,Cirugía + Quimioterapia + Radioterapia,Vivo
+296,2018,17,Valle del Cauca,Buga,Centro Poblado,Mujer,50-54,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,34,77,Solo Cirugía,Vivo
+297,2018,20,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Otros carcinomas,Estadio IV,123,28,Cirugía + Quimioterapia,Vivo
+298,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,77,94,Cirugía + Radioterapia,Vivo
+299,2018,50,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,115,36,Cirugía + Quimioterapia,Vivo
+300,2018,22,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,99,26,Cirugía + Quimioterapia,Vivo
+301,2018,29,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio I,31,21,Cirugía + Quimioterapia,Vivo
+302,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,38,26,Cirugía + Quimioterapia,Vivo
+303,2018,44,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,109,25,Cirugía + Quimioterapia + Radioterapia,Vivo
+304,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio II,98,37,Cirugía + Quimioterapia,Vivo
+305,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,59,37,Cirugía + Quimioterapia,Vivo
+306,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Otros carcinomas,Estadio III,66,33,Cirugía + Quimioterapia + Radioterapia,Vivo
+307,2018,36,Valle del Cauca,Buga,Rural Disperso,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,167,44,Cirugía + Radioterapia,Vivo
+308,2018,37,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,65-69,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio III,37,76,Cirugía + Quimioterapia + Radioterapia,Vivo
+309,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,93,64,Solo Cirugía,Vivo
+310,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,51,11,Cirugía + Quimioterapia + Radioterapia,Vivo
+311,2018,42,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,50,5,Cirugía + Quimioterapia,Vivo
+312,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,145,63,Cirugía + Quimioterapia + Radioterapia,Vivo
+313,2018,21,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,116,12,Cirugía + Quimioterapia,Vivo
+314,2018,24,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,115,28,Cirugía + Radioterapia,Vivo
+315,2018,42,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,171,14,Cirugía + Quimioterapia + Radioterapia,Vivo
+316,2018,40,Valle del Cauca,Buga,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal in situ,Estadio I,61,9,Quimioterapia + Radioterapia,Vivo
+317,2018,2,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,104,48,Cirugía + Radioterapia,Vivo
+318,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,47,56,Cirugía + Quimioterapia,Vivo
+319,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal in situ,Estadio I,78,22,Quimioterapia + Radioterapia,Vivo
+320,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,54,5,Quimioterapia + Radioterapia,Vivo
+321,2018,22,Valle del Cauca,Florida,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,65,22,Cirugía + Quimioterapia + Radioterapia,Vivo
+322,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,97,43,Cirugía + Quimioterapia,Vivo
+323,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,31,11,Cirugía + Quimioterapia,Vivo
+324,2018,29,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,321,37,Cirugía + Quimioterapia + Radioterapia,Vivo
+325,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,26,32,Cirugía + Quimioterapia,Vivo
+326,2018,44,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,22,49,Cirugía + Quimioterapia + Radioterapia,Fallecido
+327,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,152,36,Solo Cirugía,Vivo
+328,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,113,16,Cirugía + Quimioterapia,Fallecido
+329,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,99,76,Cirugía + Quimioterapia,Vivo
+330,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,99,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+331,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,59,32,Solo Cirugía,Vivo
+332,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,29,17,Solo Quimioterapia,Vivo
+333,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,64,24,Cirugía + Quimioterapia + Radioterapia,Vivo
+334,2018,51,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,35,17,Cirugía + Radioterapia,Vivo
+335,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,131,29,Solo Cirugía,Vivo
+336,2018,32,Valle del Cauca,Cali,Centro Poblado,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,53,109,Cirugía + Quimioterapia,Vivo
+337,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,31,12,Solo Cirugía,Vivo
+338,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Otros carcinomas,Estadio II,46,10,Solo Quimioterapia,Vivo
+339,2018,7,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Otros carcinomas,Estadio IV,83,92,Cirugía + Quimioterapia + Radioterapia,Vivo
+340,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,38,28,Solo Quimioterapia,Vivo
+341,2018,3,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,31,20,Cirugía + Quimioterapia,Vivo
+342,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,73,68,Solo Quimioterapia,Vivo
+343,2018,20,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,73,21,Cirugía + Radioterapia,Vivo
+344,2018,30,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Otros carcinomas,Estadio I,40,118,Cirugía + Radioterapia,Vivo
+345,2018,35,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,41,53,Cirugía + Quimioterapia + Radioterapia,Vivo
+346,2018,35,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal in situ,Sin dato,72,23,Cirugía + Quimioterapia + Radioterapia,Vivo
+347,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio I,18,149,Cirugía + Quimioterapia,Vivo
+348,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,19,21,Cirugía + Quimioterapia,Vivo
+349,2018,27,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,33,55,Cirugía + Quimioterapia + Radioterapia,Vivo
+350,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,50,40,Solo Quimioterapia,Vivo
+351,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,77,82,Cirugía + Quimioterapia,Vivo
+352,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Otros carcinomas,Sin dato,196,98,Solo Cirugía,Vivo
+353,2018,18,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,119,33,Solo Quimioterapia,Vivo
+354,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,53,19,Cirugía + Quimioterapia + Radioterapia,Vivo
+355,2018,52,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,59,45,Cirugía + Quimioterapia + Radioterapia,Vivo
+356,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,27,20,Cirugía + Radioterapia,Vivo
+357,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Hombre,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,59,135,Tratamiento paliativo,Vivo
+358,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,47,36,Cirugía + Quimioterapia,Vivo
+359,2018,18,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,78,25,Cirugía + Quimioterapia,Vivo
+360,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Estadio III,31,37,Solo Cirugía,Vivo
+361,2018,1,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,91,12,Cirugía + Quimioterapia + Radioterapia,Vivo
+362,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,205,16,Cirugía + Quimioterapia,Vivo
+363,2018,1,Valle del Cauca,Tuluá,Rural Disperso,Mujer,75-79,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,55,76,Cirugía + Quimioterapia,Vivo
+364,2018,26,Valle del Cauca,Buga,Centro Poblado,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,83,20,Quimioterapia + Radioterapia,Vivo
+365,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Otros carcinomas,Estadio III,104,15,Solo Cirugía,Vivo
+366,2018,20,Valle del Cauca,Florida,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,43,48,Cirugía + Quimioterapia + Radioterapia,Vivo
+367,2018,52,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,72,75,Cirugía + Radioterapia,Vivo
+368,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Sin dato,60,54,Solo Quimioterapia,Vivo
+369,2018,10,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,65,66,Cirugía + Quimioterapia,Vivo
+370,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,32,19,Cirugía + Quimioterapia + Radioterapia,Vivo
+371,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,61,12,Cirugía + Quimioterapia + Radioterapia,Vivo
+372,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,89,94,Cirugía + Quimioterapia,Vivo
+373,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,192,26,Cirugía + Quimioterapia,Vivo
+374,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio III,129,27,Cirugía + Quimioterapia + Radioterapia,Vivo
+375,2018,17,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Otros carcinomas,Estadio II,337,83,Cirugía + Quimioterapia + Radioterapia,Vivo
+376,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,32,48,Cirugía + Quimioterapia,Fallecido
+377,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,121,45,Cirugía + Quimioterapia,Vivo
+378,2018,45,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,69,150,Cirugía + Radioterapia,Vivo
+379,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,347,21,Cirugía + Radioterapia,Fallecido
+380,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,31,63,Cirugía + Quimioterapia + Radioterapia,Vivo
+381,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,30,34,Solo Cirugía,Vivo
+382,2018,5,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,37,39,Cirugía + Radioterapia,Vivo
+383,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio I,11,96,Cirugía + Radioterapia,Vivo
+384,2018,51,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,39,47,Quimioterapia + Radioterapia,Vivo
+385,2018,21,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Sin dato,32,48,Cirugía + Quimioterapia + Radioterapia,Vivo
+386,2018,35,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,68,70,Cirugía + Radioterapia,Vivo
+387,2018,12,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,79,25,Cirugía + Quimioterapia,Vivo
+388,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,270,18,Cirugía + Quimioterapia + Radioterapia,Vivo
+389,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,129,15,Cirugía + Quimioterapia + Radioterapia,Vivo
+390,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,38,8,Solo Cirugía,Vivo
+391,2018,45,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,29,139,Cirugía + Quimioterapia + Radioterapia,Vivo
+392,2018,7,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,89,15,Cirugía + Quimioterapia + Radioterapia,Vivo
+393,2018,47,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Otros carcinomas,Estadio III,20,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+394,2018,7,Valle del Cauca,Buga,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,261,27,Quimioterapia + Radioterapia,Vivo
+395,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,155,41,Quimioterapia + Radioterapia,Vivo
+396,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,41,58,Cirugía + Quimioterapia,Vivo
+397,2018,5,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal in situ,Estadio I,15,60,Solo Quimioterapia,Vivo
+398,2018,21,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,178,22,Cirugía + Quimioterapia,Vivo
+399,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,55,29,Cirugía + Quimioterapia,Vivo
+400,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,162,40,Cirugía + Quimioterapia + Radioterapia,Vivo
+401,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,16,27,Cirugía + Quimioterapia,Vivo
+402,2018,42,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Otros carcinomas,Estadio II,37,102,Cirugía + Quimioterapia + Radioterapia,Vivo
+403,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,60,46,Cirugía + Quimioterapia + Radioterapia,Vivo
+404,2018,15,Valle del Cauca,Buga,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,62,55,Cirugía + Quimioterapia + Radioterapia,Vivo
+405,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,42,52,Cirugía + Quimioterapia,Vivo
+406,2018,52,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,99,75,Cirugía + Quimioterapia + Radioterapia,Fallecido
+407,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,25,37,Cirugía + Radioterapia,Vivo
+408,2018,29,Valle del Cauca,Cali,Rural Disperso,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,53,13,Cirugía + Quimioterapia + Radioterapia,Vivo
+409,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,66,43,Cirugía + Radioterapia,Vivo
+410,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Afrocolombiano,Subsidiado,Carcinoma ductal invasivo,Sin dato,91,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+411,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma lobulillar invasivo,Sin dato,106,22,Cirugía + Quimioterapia,Vivo
+412,2018,19,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,24,49,Cirugía + Quimioterapia,Fallecido
+413,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal in situ,Estadio III,17,78,Cirugía + Quimioterapia + Radioterapia,Vivo
+414,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,167,33,Cirugía + Quimioterapia + Radioterapia,Vivo
+415,2018,46,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,78,41,Cirugía + Quimioterapia + Radioterapia,Vivo
+416,2018,28,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,33,109,Solo Quimioterapia,Vivo
+417,2018,46,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,208,39,Quimioterapia + Radioterapia,Vivo
+418,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,66,204,Cirugía + Quimioterapia,Vivo
+419,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,155,49,Cirugía + Radioterapia,Vivo
+420,2018,15,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,63,9,Cirugía + Quimioterapia + Radioterapia,Vivo
+421,2018,35,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,313,56,Quimioterapia + Radioterapia,Vivo
+422,2018,37,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,245,43,Cirugía + Quimioterapia,Vivo
+423,2018,1,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,49,81,Cirugía + Radioterapia,Vivo
+424,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio I,131,53,Cirugía + Quimioterapia + Radioterapia,Vivo
+425,2018,47,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal in situ,Estadio I,101,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+426,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Sin dato,180,14,Cirugía + Quimioterapia + Radioterapia,Vivo
+427,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,27,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+428,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,104,18,Cirugía + Quimioterapia + Radioterapia,Vivo
+429,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,140,22,Cirugía + Quimioterapia,Vivo
+430,2018,34,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,14,49,Solo Cirugía,Vivo
+431,2018,29,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,23,106,Solo Cirugía,Vivo
+432,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,11,43,Cirugía + Quimioterapia + Radioterapia,Vivo
+433,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,48,14,Cirugía + Quimioterapia,Vivo
+434,2018,42,Valle del Cauca,Buga,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio IV,107,45,Solo Quimioterapia,Fallecido
+435,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,200,76,Solo Quimioterapia,Vivo
+436,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,64,21,Quimioterapia + Radioterapia,Vivo
+437,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,222,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+438,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,20,33,Cirugía + Quimioterapia,Vivo
+439,2018,23,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,15,19,Cirugía + Quimioterapia + Radioterapia,Vivo
+440,2018,52,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Otros carcinomas,Sin dato,57,52,Cirugía + Quimioterapia + Radioterapia,Vivo
+441,2018,23,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,82,30,Solo Cirugía,Vivo
+442,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,58,44,Solo Cirugía,Vivo
+443,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,11,17,Cirugía + Quimioterapia + Radioterapia,Vivo
+444,2018,31,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,56,24,Cirugía + Quimioterapia + Radioterapia,Vivo
+445,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,21,54,Cirugía + Quimioterapia + Radioterapia,Vivo
+446,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,103,25,Cirugía + Quimioterapia + Radioterapia,Vivo
+447,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,80,110,Cirugía + Quimioterapia + Radioterapia,Vivo
+448,2018,10,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,28,25,Cirugía + Quimioterapia,Vivo
+449,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,40,38,Cirugía + Quimioterapia + Radioterapia,Vivo
+450,2018,7,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,25,63,Cirugía + Quimioterapia + Radioterapia,Vivo
+451,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,57,12,Cirugía + Radioterapia,Vivo
+452,2018,38,Valle del Cauca,Buga,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio III,129,9,Cirugía + Quimioterapia + Radioterapia,Vivo
+453,2018,21,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,27,11,Solo Cirugía,Vivo
+454,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,90,80,Cirugía + Quimioterapia + Radioterapia,Vivo
+455,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,39,22,Solo Cirugía,Vivo
+456,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,31,198,Cirugía + Quimioterapia,Vivo
+457,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,55,22,Cirugía + Quimioterapia,Vivo
+458,2018,47,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio I,26,37,Quimioterapia + Radioterapia,Vivo
+459,2018,4,Valle del Cauca,Florida,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,38,97,Cirugía + Quimioterapia,Vivo
+460,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,23,134,Cirugía + Quimioterapia,Vivo
+461,2018,12,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,290,140,Solo Quimioterapia,Vivo
+462,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,62,77,Cirugía + Radioterapia,Vivo
+463,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal in situ,Estadio III,34,67,Solo Cirugía,Vivo
+464,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,71,50,Cirugía + Quimioterapia,Vivo
+465,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,55,57,Cirugía + Radioterapia,Vivo
+466,2018,41,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Otros carcinomas,Estadio III,50,22,Solo Cirugía,Vivo
+467,2018,5,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,98,18,Cirugía + Quimioterapia,Vivo
+468,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,110,33,Quimioterapia + Radioterapia,Vivo
+469,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,39,29,Quimioterapia + Radioterapia,Vivo
+470,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,38,24,Solo Cirugía,Vivo
+471,2018,30,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,48,53,Quimioterapia + Radioterapia,Vivo
+472,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,9,64,Quimioterapia + Radioterapia,Vivo
+473,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,17,35,Cirugía + Quimioterapia + Radioterapia,Vivo
+474,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Otros carcinomas,Estadio III,180,93,Cirugía + Quimioterapia,Vivo
+475,2018,27,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,224,14,Cirugía + Quimioterapia + Radioterapia,Vivo
+476,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Otros carcinomas,Estadio III,49,28,Cirugía + Radioterapia,Vivo
+477,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,95,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+478,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,77,8,Solo Cirugía,Vivo
+479,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Indeterminado,Carcinoma ductal invasivo,Estadio III,708,31,Tratamiento paliativo,Vivo
+480,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio I,147,30,Cirugía + Quimioterapia + Radioterapia,Fallecido
+481,2018,39,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,54,95,Cirugía + Quimioterapia,Vivo
+482,2018,16,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,15-19,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,28,51,Cirugía + Quimioterapia + Radioterapia,Vivo
+483,2018,22,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,16,16,Cirugía + Quimioterapia,Vivo
+484,2018,21,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,71,121,Tratamiento paliativo,Vivo
+485,2018,21,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,32,77,Cirugía + Quimioterapia + Radioterapia,Vivo
+486,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,19,49,Solo Quimioterapia,Vivo
+487,2018,49,Valle del Cauca,Buga,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,35,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+488,2018,16,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,25,16,Cirugía + Quimioterapia,Vivo
+489,2018,31,Valle del Cauca,Cali,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,232,25,Solo Cirugía,Vivo
+490,2018,42,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal in situ,Estadio I,122,70,Solo Cirugía,Vivo
+491,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,59,123,Cirugía + Quimioterapia + Radioterapia,Vivo
+492,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,197,97,Cirugía + Quimioterapia + Radioterapia,Vivo
+493,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio II,64,23,Cirugía + Quimioterapia + Radioterapia,Vivo
+494,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,No Asegurado,Carcinoma ductal invasivo,Estadio I,30,15,Cirugía + Quimioterapia,Vivo
+495,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,204,36,Cirugía + Radioterapia,Vivo
+496,2018,11,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,30-34,Otro,Subsidiado,Otros carcinomas,Estadio II,92,9,Cirugía + Quimioterapia + Radioterapia,Vivo
+497,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,26,41,Cirugía + Quimioterapia,Vivo
+498,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,51,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+499,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,29,23,Cirugía + Quimioterapia + Radioterapia,Vivo
+500,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,19,10,Cirugía + Quimioterapia + Radioterapia,Vivo
+501,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,126,47,Cirugía + Quimioterapia + Radioterapia,Vivo
+502,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,277,22,Cirugía + Quimioterapia + Radioterapia,Vivo
+503,2018,52,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,19,14,Cirugía + Quimioterapia,Vivo
+504,2018,47,Valle del Cauca,Cartago,Rural Disperso,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,94,4,Cirugía + Quimioterapia,Fallecido
+505,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,35,32,Cirugía + Radioterapia,Vivo
+506,2018,21,Valle del Cauca,Florida,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,40,114,Solo Cirugía,Vivo
+507,2018,37,Valle del Cauca,Florida,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,37,105,Cirugía + Quimioterapia + Radioterapia,Vivo
+508,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,30,24,Solo Cirugía,Vivo
+509,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,62,21,Solo Cirugía,Vivo
+510,2018,1,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Otros carcinomas,Estadio II,31,45,Cirugía + Quimioterapia + Radioterapia,Vivo
+511,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,74,16,Cirugía + Quimioterapia,Fallecido
+512,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,57,40,Solo Quimioterapia,Vivo
+513,2018,36,Valle del Cauca,Roldanillo,Rural Disperso,Mujer,60-64,Otro,Subsidiado,Otros carcinomas,Estadio II,49,56,Cirugía + Radioterapia,Vivo
+514,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,29,78,Cirugía + Quimioterapia + Radioterapia,Vivo
+515,2018,41,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,38,30,Cirugía + Quimioterapia,Vivo
+516,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,110,28,Solo Cirugía,Vivo
+517,2018,2,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,90,17,Solo Cirugía,Vivo
+518,2018,40,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,27,18,Cirugía + Radioterapia,Vivo
+519,2018,15,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,65,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+520,2018,32,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,110,42,Cirugía + Quimioterapia + Radioterapia,Vivo
+521,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,15,62,Cirugía + Quimioterapia + Radioterapia,Vivo
+522,2018,6,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,20-24,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,93,18,Cirugía + Quimioterapia + Radioterapia,Vivo
+523,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Otros carcinomas,Estadio I,35,94,Cirugía + Quimioterapia + Radioterapia,Vivo
+524,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,95,27,Cirugía + Quimioterapia,Vivo
+525,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio II,32,32,Cirugía + Quimioterapia + Radioterapia,Vivo
+526,2018,39,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,14,19,Cirugía + Quimioterapia,Vivo
+527,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,16,6,Solo Cirugía,Vivo
+528,2018,34,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,62,61,Cirugía + Quimioterapia,Vivo
+529,2018,41,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,74,55,Cirugía + Quimioterapia,Vivo
+530,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,29,27,Solo Cirugía,Vivo
+531,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,100,34,Cirugía + Radioterapia,Vivo
+532,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio III,15,47,Cirugía + Quimioterapia + Radioterapia,Vivo
+533,2018,6,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,57,11,Cirugía + Quimioterapia,Vivo
+534,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,22,22,Solo Quimioterapia,Vivo
+535,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal in situ,Estadio III,35,57,Cirugía + Quimioterapia + Radioterapia,Vivo
+536,2018,52,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,62,13,Tratamiento paliativo,Vivo
+537,2018,3,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,30,40,Solo Cirugía,Vivo
+538,2018,17,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,44,12,Cirugía + Quimioterapia + Radioterapia,Vivo
+539,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,134,45,Cirugía + Quimioterapia,Vivo
+540,2018,12,Valle del Cauca,Jamundí,Cabecera Municipal,Hombre,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,38,32,Cirugía + Quimioterapia + Radioterapia,Vivo
+541,2018,48,Valle del Cauca,Buga,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,117,10,Cirugía + Radioterapia,Vivo
+542,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,24,74,Cirugía + Radioterapia,Vivo
+543,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,92,19,Cirugía + Quimioterapia + Radioterapia,Vivo
+544,2018,1,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,191,18,Cirugía + Quimioterapia + Radioterapia,Fallecido
+545,2018,17,Valle del Cauca,Cali,Rural Disperso,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,8,38,Cirugía + Radioterapia,Vivo
+546,2018,3,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,31,73,Cirugía + Quimioterapia,Fallecido
+547,2018,26,Valle del Cauca,Florida,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,95,16,Cirugía + Quimioterapia + Radioterapia,Vivo
+548,2018,15,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,51,34,Cirugía + Quimioterapia,Vivo
+549,2018,36,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,81,44,Cirugía + Quimioterapia + Radioterapia,Vivo
+550,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,37,53,Cirugía + Quimioterapia + Radioterapia,Vivo
+551,2018,32,Valle del Cauca,Cali,Rural Disperso,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,64,37,Cirugía + Quimioterapia + Radioterapia,Vivo
+552,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio II,53,25,Cirugía + Radioterapia,Vivo
+553,2018,18,Valle del Cauca,Cali,Rural Disperso,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,153,18,Cirugía + Quimioterapia,Vivo
+554,2018,49,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,73,35,Solo Cirugía,Vivo
+555,2018,19,Valle del Cauca,Buga,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,79,15,Cirugía + Quimioterapia + Radioterapia,Vivo
+556,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Afrocolombiano,Contributivo,Carcinoma ductal in situ,Estadio II,43,4,Cirugía + Quimioterapia + Radioterapia,Vivo
+557,2018,52,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,40,44,Quimioterapia + Radioterapia,Vivo
+558,2018,35,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,42,62,Cirugía + Quimioterapia,Vivo
+559,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,82,6,Cirugía + Quimioterapia + Radioterapia,Vivo
+560,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal in situ,Estadio I,43,16,Cirugía + Quimioterapia + Radioterapia,Vivo
+561,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,76,51,Solo Quimioterapia,Vivo
+562,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,317,139,Cirugía + Quimioterapia + Radioterapia,Vivo
+563,2018,34,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,121,33,Cirugía + Quimioterapia + Radioterapia,Vivo
+564,2018,4,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,46,19,Solo Cirugía,Vivo
+565,2018,24,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,157,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+566,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,43,86,Cirugía + Quimioterapia + Radioterapia,Vivo
+567,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,11,21,Solo Cirugía,Vivo
+568,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,26,18,Cirugía + Quimioterapia + Radioterapia,Vivo
+569,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,13,23,Solo Cirugía,Vivo
+570,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,45,16,Cirugía + Radioterapia,Vivo
+571,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,61,36,Cirugía + Quimioterapia + Radioterapia,Vivo
+572,2018,19,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,230,103,Cirugía + Quimioterapia,Vivo
+573,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,78,41,Cirugía + Quimioterapia,Vivo
+574,2018,5,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Otros carcinomas,Estadio III,50,27,Solo Cirugía,Vivo
+575,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Otros carcinomas,Estadio II,117,26,Quimioterapia + Radioterapia,Vivo
+576,2018,16,Valle del Cauca,Cali,Centro Poblado,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,10,11,Cirugía + Quimioterapia,Vivo
+577,2018,6,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,72,61,Cirugía + Quimioterapia + Radioterapia,Vivo
+578,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,111,31,Cirugía + Quimioterapia,Vivo
+579,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Estadio II,18,29,Cirugía + Quimioterapia,Vivo
+580,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,150,309,Quimioterapia + Radioterapia,Vivo
+581,2018,35,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,50-54,Afrocolombiano,Contributivo,Carcinoma ductal in situ,Estadio II,79,40,Cirugía + Quimioterapia + Radioterapia,Vivo
+582,2018,19,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,43,19,Solo Cirugía,Vivo
+583,2018,12,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal in situ,Sin dato,100,24,Solo Quimioterapia,Vivo
+584,2018,16,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,371,73,Cirugía + Quimioterapia,Vivo
+585,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,69,35,Cirugía + Radioterapia,Vivo
+586,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,73,12,Solo Quimioterapia,Vivo
+587,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,41,63,Solo Cirugía,Vivo
+588,2018,20,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,30,20,Solo Quimioterapia,Vivo
+589,2018,31,Valle del Cauca,Buga,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,117,122,Cirugía + Quimioterapia,Vivo
+590,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio II,30,70,Cirugía + Radioterapia,Vivo
+591,2018,44,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,63,24,Quimioterapia + Radioterapia,Vivo
+592,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,41,81,Cirugía + Quimioterapia + Radioterapia,Vivo
+593,2018,2,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,88,34,Solo Quimioterapia,Vivo
+594,2018,22,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,78,60,Cirugía + Quimioterapia + Radioterapia,Vivo
+595,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,138,46,Cirugía + Quimioterapia + Radioterapia,Vivo
+596,2018,37,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,40,18,Cirugía + Quimioterapia + Radioterapia,Vivo
+597,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,48,21,Cirugía + Radioterapia,Vivo
+598,2018,7,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,27,68,Cirugía + Quimioterapia + Radioterapia,Vivo
+599,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,42,26,Quimioterapia + Radioterapia,Vivo
+600,2018,3,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Otros carcinomas,Estadio III,81,24,Cirugía + Quimioterapia,Vivo
+601,2018,50,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,110,16,Cirugía + Radioterapia,Vivo
+602,2018,16,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,45-49,Afrocolombiano,Excepción,Carcinoma lobulillar invasivo,Estadio III,28,44,Cirugía + Quimioterapia + Radioterapia,Vivo
+603,2018,19,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,120,140,Cirugía + Quimioterapia,Vivo
+604,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,178,15,Tratamiento paliativo,Vivo
+605,2018,18,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Indeterminado,Carcinoma lobulillar in situ,Estadio III,83,33,Cirugía + Quimioterapia + Radioterapia,Vivo
+606,2018,52,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,270,88,Solo Cirugía,Vivo
+607,2018,16,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,32,31,Cirugía + Quimioterapia,Vivo
+608,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,22,45,Cirugía + Quimioterapia,Fallecido
+609,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Indeterminado,Carcinoma ductal invasivo,Estadio III,14,15,Cirugía + Quimioterapia,Vivo
+610,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,199,44,Cirugía + Quimioterapia + Radioterapia,Vivo
+611,2018,12,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,101,29,Cirugía + Quimioterapia,Vivo
+612,2018,11,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,57,66,Cirugía + Quimioterapia + Radioterapia,Vivo
+613,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,75,76,Solo Cirugía,Vivo
+614,2018,27,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,24,202,Cirugía + Quimioterapia + Radioterapia,Vivo
+615,2018,12,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Otros carcinomas,Estadio II,426,49,Cirugía + Quimioterapia + Radioterapia,Vivo
+616,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma lobulillar in situ,Sin dato,66,41,Cirugía + Quimioterapia,Vivo
+617,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,65,37,Cirugía + Quimioterapia + Radioterapia,Vivo
+618,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,107,25,Cirugía + Radioterapia,Vivo
+619,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,88,41,Cirugía + Quimioterapia + Radioterapia,Vivo
+620,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,72,26,Cirugía + Quimioterapia + Radioterapia,Vivo
+621,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,32,37,Cirugía + Quimioterapia + Radioterapia,Vivo
+622,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,87,83,Cirugía + Quimioterapia,Vivo
+623,2018,33,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,271,16,Quimioterapia + Radioterapia,Vivo
+624,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Otros carcinomas,Estadio III,177,73,Quimioterapia + Radioterapia,Fallecido
+625,2018,48,Valle del Cauca,Buga,Rural Disperso,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,215,83,Quimioterapia + Radioterapia,Fallecido
+626,2018,41,Valle del Cauca,Cali,Centro Poblado,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,40,30,Cirugía + Radioterapia,Fallecido
+627,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,27,7,Cirugía + Quimioterapia + Radioterapia,Fallecido
+628,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,54,21,Cirugía + Quimioterapia,Vivo
+629,2018,5,Valle del Cauca,Buga,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,63,82,Cirugía + Quimioterapia,Vivo
+630,2018,2,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,144,32,Cirugía + Radioterapia,Vivo
+631,2018,30,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,15,16,Solo Quimioterapia,Vivo
+632,2018,47,Valle del Cauca,Buga,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,205,23,Cirugía + Quimioterapia + Radioterapia,Vivo
+633,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,53,59,Cirugía + Radioterapia,Vivo
+634,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,42,48,Solo Cirugía,Vivo
+635,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma lobulillar in situ,Estadio I,26,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+636,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,16,25,Cirugía + Quimioterapia,Vivo
+637,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,116,25,Solo Cirugía,Vivo
+638,2018,7,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,63,17,Cirugía + Quimioterapia + Radioterapia,Vivo
+639,2018,15,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,21,102,Cirugía + Quimioterapia + Radioterapia,Vivo
+640,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio I,21,26,Cirugía + Radioterapia,Vivo
+641,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,46,77,Solo Cirugía,Vivo
+642,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Otros carcinomas,Estadio I,229,96,Cirugía + Quimioterapia + Radioterapia,Vivo
+643,2018,19,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,49,66,Cirugía + Quimioterapia + Radioterapia,Vivo
+644,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,18,24,Tratamiento paliativo,Vivo
+645,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Otros carcinomas,Estadio IV,49,43,Cirugía + Radioterapia,Vivo
+646,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Hombre,45-49,Otro,Contributivo,Otros carcinomas,Estadio II,48,32,Cirugía + Quimioterapia,Vivo
+647,2018,24,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Otros carcinomas,Estadio II,6,17,Cirugía + Radioterapia,Vivo
+648,2018,18,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,57,41,Cirugía + Quimioterapia,Vivo
+649,2018,10,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio III,50,14,Cirugía + Radioterapia,Vivo
+650,2018,41,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Otros carcinomas,Estadio II,105,76,Cirugía + Quimioterapia + Radioterapia,Vivo
+651,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,264,23,Cirugía + Quimioterapia,Vivo
+652,2018,26,Valle del Cauca,Cali,Rural Disperso,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,148,38,Cirugía + Quimioterapia,Vivo
+653,2018,29,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,48,40,Cirugía + Quimioterapia,Vivo
+654,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,24,27,Cirugía + Quimioterapia,Vivo
+655,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,472,49,Cirugía + Quimioterapia,Vivo
+656,2018,2,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,63,23,Cirugía + Quimioterapia,Vivo
+657,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,61,60,Solo Quimioterapia,Fallecido
+658,2018,5,Valle del Cauca,Buga,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,59,12,Cirugía + Quimioterapia,Vivo
+659,2018,28,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,70,36,Tratamiento paliativo,Vivo
+660,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,53,128,Cirugía + Quimioterapia + Radioterapia,Vivo
+661,2018,5,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,55-59,Afrocolombiano,Subsidiado,Carcinoma ductal invasivo,Estadio III,38,16,Cirugía + Quimioterapia + Radioterapia,Vivo
+662,2018,18,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,38,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+663,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,58,47,Quimioterapia + Radioterapia,Vivo
+664,2018,20,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,39,37,Cirugía + Quimioterapia,Vivo
+665,2018,41,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio II,34,42,Quimioterapia + Radioterapia,Vivo
+666,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Sin dato,65,46,Cirugía + Quimioterapia,Vivo
+667,2018,27,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,49,51,Cirugía + Quimioterapia + Radioterapia,Vivo
+668,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio I,200,72,Cirugía + Quimioterapia + Radioterapia,Vivo
+669,2018,12,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,7,44,Cirugía + Quimioterapia,Vivo
+670,2018,7,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Estadio IV,144,27,Cirugía + Radioterapia,Vivo
+671,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio III,163,53,Cirugía + Radioterapia,Vivo
+672,2018,10,Valle del Cauca,Tuluá,Rural Disperso,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,11,125,Cirugía + Quimioterapia + Radioterapia,Vivo
+673,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,45,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+674,2018,25,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,44,16,Solo Cirugía,Vivo
+675,2018,35,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,19,71,Tratamiento paliativo,Vivo
+676,2018,16,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,32,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+677,2018,2,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,24,7,Cirugía + Quimioterapia + Radioterapia,Vivo
+678,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,245,59,Cirugía + Quimioterapia,Vivo
+679,2018,10,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio II,127,22,Solo Quimioterapia,Vivo
+680,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,166,31,Cirugía + Quimioterapia,Vivo
+681,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,107,41,Quimioterapia + Radioterapia,Vivo
+682,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,24,37,Cirugía + Quimioterapia,Vivo
+683,2018,43,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,39,54,Cirugía + Quimioterapia + Radioterapia,Vivo
+684,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,20-24,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,89,24,Cirugía + Quimioterapia + Radioterapia,Vivo
+685,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,22,47,Cirugía + Radioterapia,Vivo
+686,2018,29,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,106,27,Cirugía + Quimioterapia,Vivo
+687,2018,47,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,49,55,Solo Cirugía,Vivo
+688,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,44,50,Cirugía + Quimioterapia,Vivo
+689,2018,20,Valle del Cauca,Cali,Rural Disperso,Mujer,40-44,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio II,106,17,Cirugía + Quimioterapia + Radioterapia,Vivo
+690,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,86,70,Cirugía + Quimioterapia + Radioterapia,Vivo
+691,2018,41,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,30-34,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,45,22,Cirugía + Quimioterapia + Radioterapia,Vivo
+692,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,152,58,Cirugía + Quimioterapia,Vivo
+693,2018,44,Valle del Cauca,Florida,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Otros carcinomas,Estadio IV,25,42,Cirugía + Quimioterapia,Vivo
+694,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,98,119,Cirugía + Quimioterapia,Vivo
+695,2018,20,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,96,28,Solo Cirugía,Vivo
+696,2018,35,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,47,25,Tratamiento paliativo,Vivo
+697,2018,47,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,78,32,Cirugía + Quimioterapia + Radioterapia,Vivo
+698,2018,2,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,22,26,Cirugía + Radioterapia,Vivo
+699,2018,30,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,126,57,Cirugía + Quimioterapia,Vivo
+700,2018,34,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Otros carcinomas,Estadio III,52,10,Cirugía + Quimioterapia + Radioterapia,Vivo
+701,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio I,39,15,Cirugía + Quimioterapia + Radioterapia,Vivo
+702,2018,3,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,139,15,Cirugía + Quimioterapia,Vivo
+703,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio III,34,64,Cirugía + Quimioterapia,Vivo
+704,2018,15,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,19,109,Quimioterapia + Radioterapia,Vivo
+705,2018,27,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,17,30,Quimioterapia + Radioterapia,Vivo
+706,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,97,29,Cirugía + Quimioterapia,Vivo
+707,2018,9,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,21,34,Cirugía + Quimioterapia,Vivo
+708,2018,33,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,245,74,Cirugía + Quimioterapia + Radioterapia,Vivo
+709,2018,32,Valle del Cauca,Florida,Cabecera Municipal,Hombre,45-49,Otro,Contributivo,Otros carcinomas,Sin dato,11,17,Tratamiento paliativo,Vivo
+710,2018,48,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,234,39,Cirugía + Quimioterapia + Radioterapia,Vivo
+711,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Hombre,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,71,65,Cirugía + Quimioterapia + Radioterapia,Vivo
+712,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,55,47,Cirugía + Quimioterapia,Vivo
+713,2018,36,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,39,37,Cirugía + Quimioterapia,Fallecido
+714,2018,2,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Otros carcinomas,Sin dato,83,66,Solo Cirugía,Fallecido
+715,2018,29,Valle del Cauca,Cali,Rural Disperso,Mujer,30-34,Afrocolombiano,Contributivo,Carcinoma lobulillar invasivo,Sin dato,58,4,Cirugía + Quimioterapia,Fallecido
+716,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,145,53,Cirugía + Quimioterapia,Vivo
+717,2018,1,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,66,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+718,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Afrocolombiano,Contributivo,Carcinoma lobulillar invasivo,Estadio I,68,9,Solo Cirugía,Vivo
+719,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,45,47,Cirugía + Quimioterapia,Vivo
+720,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Otros carcinomas,Sin dato,57,86,Cirugía + Quimioterapia,Vivo
+721,2018,10,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,77,30,Quimioterapia + Radioterapia,Vivo
+722,2018,15,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,15,64,Cirugía + Quimioterapia + Radioterapia,Vivo
+723,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,20,102,Cirugía + Radioterapia,Vivo
+724,2018,51,Valle del Cauca,Florida,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,109,83,Solo Quimioterapia,Vivo
+725,2018,48,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio III,69,104,Solo Cirugía,Vivo
+726,2018,21,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,52,55,Solo Cirugía,Vivo
+727,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,61,34,Cirugía + Quimioterapia,Vivo
+728,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,79,10,Tratamiento paliativo,Vivo
+729,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,39,27,Solo Cirugía,Vivo
+730,2018,30,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio II,32,18,Cirugía + Quimioterapia + Radioterapia,Vivo
+731,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,70,151,Solo Cirugía,Vivo
+732,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,27,29,Cirugía + Quimioterapia,Vivo
+733,2018,28,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,83,36,Solo Cirugía,Vivo
+734,2018,1,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Otros carcinomas,Estadio III,15,48,Cirugía + Quimioterapia,Vivo
+735,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,137,34,Cirugía + Radioterapia,Vivo
+736,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,88,108,Solo Cirugía,Vivo
+737,2018,4,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,74,21,Cirugía + Quimioterapia,Vivo
+738,2018,7,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,132,37,Cirugía + Quimioterapia,Vivo
+739,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio III,228,19,Solo Cirugía,Fallecido
+740,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,135,13,Cirugía + Quimioterapia + Radioterapia,Vivo
+741,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,13,21,Cirugía + Quimioterapia,Fallecido
+742,2018,19,Valle del Cauca,Florida,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,21,32,Cirugía + Quimioterapia,Vivo
+743,2018,1,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,36,24,Cirugía + Quimioterapia,Vivo
+744,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,61,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+745,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,91,12,Cirugía + Quimioterapia,Vivo
+746,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,33,31,Solo Cirugía,Vivo
+747,2018,45,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal in situ,Estadio IV,70,11,Cirugía + Quimioterapia,Vivo
+748,2018,46,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,32,56,Cirugía + Quimioterapia,Vivo
+749,2018,42,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,36,35,Quimioterapia + Radioterapia,Vivo
+750,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,19,11,Cirugía + Radioterapia,Vivo
+751,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,28,26,Cirugía + Radioterapia,Vivo
+752,2018,6,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,20,19,Solo Cirugía,Vivo
+753,2018,48,Valle del Cauca,Palmira,Centro Poblado,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,27,41,Cirugía + Quimioterapia,Vivo
+754,2018,38,Valle del Cauca,Florida,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,140,84,Cirugía + Quimioterapia + Radioterapia,Vivo
+755,2018,17,Valle del Cauca,Cartago,Cabecera Municipal,Hombre,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,28,8,Quimioterapia + Radioterapia,Vivo
+756,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio IV,495,35,Cirugía + Quimioterapia + Radioterapia,Vivo
+757,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,89,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+758,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,69,52,Cirugía + Quimioterapia + Radioterapia,Vivo
+759,2018,50,Valle del Cauca,Florida,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,30,38,Solo Quimioterapia,Vivo
+760,2018,35,Valle del Cauca,Florida,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Sin dato,105,19,Cirugía + Quimioterapia,Vivo
+761,2018,52,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,38,26,Cirugía + Quimioterapia + Radioterapia,Vivo
+762,2018,21,Valle del Cauca,Cali,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,66,18,Cirugía + Radioterapia,Vivo
+763,2018,25,Valle del Cauca,Cali,Rural Disperso,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,467,70,Cirugía + Quimioterapia,Vivo
+764,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,55,33,Tratamiento paliativo,Vivo
+765,2018,47,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,151,125,Quimioterapia + Radioterapia,Vivo
+766,2018,15,Valle del Cauca,Buga,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,34,31,Cirugía + Quimioterapia + Radioterapia,Vivo
+767,2018,4,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,58,20,Cirugía + Quimioterapia,Vivo
+768,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,248,11,Cirugía + Quimioterapia,Vivo
+769,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,36,9,Cirugía + Quimioterapia + Radioterapia,Fallecido
+770,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio II,257,10,Cirugía + Radioterapia,Fallecido
+771,2018,26,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,106,39,Cirugía + Quimioterapia,Vivo
+772,2018,19,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,38,47,Solo Cirugía,Vivo
+773,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,100,10,Cirugía + Quimioterapia + Radioterapia,Vivo
+774,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,131,61,Solo Cirugía,Fallecido
+775,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,99,23,Cirugía + Quimioterapia,Vivo
+776,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,17,36,Solo Quimioterapia,Vivo
+777,2018,42,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,33,102,Cirugía + Quimioterapia + Radioterapia,Vivo
+778,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,49,62,Solo Quimioterapia,Vivo
+779,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma lobulillar invasivo,Sin dato,56,27,Cirugía + Quimioterapia,Vivo
+780,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,99,17,Cirugía + Radioterapia,Vivo
+781,2018,40,Valle del Cauca,Cali,Centro Poblado,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,69,7,Cirugía + Quimioterapia + Radioterapia,Vivo
+782,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,20,20,Cirugía + Radioterapia,Vivo
+783,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,81,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+784,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,98,16,Cirugía + Quimioterapia,Vivo
+785,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Otros carcinomas,Estadio II,94,30,Cirugía + Radioterapia,Vivo
+786,2018,32,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,143,34,Cirugía + Quimioterapia,Vivo
+787,2018,52,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,117,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+788,2018,47,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,87,21,Solo Cirugía,Vivo
+789,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,57,37,Cirugía + Quimioterapia,Vivo
+790,2018,46,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,15,45,Solo Cirugía,Vivo
+791,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,85,15,Cirugía + Quimioterapia + Radioterapia,Fallecido
+792,2018,43,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,71,88,Quimioterapia + Radioterapia,Vivo
+793,2018,48,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,74,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+794,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Otros carcinomas,Estadio IV,21,33,Cirugía + Radioterapia,Vivo
+795,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,25,54,Cirugía + Radioterapia,Vivo
+796,2018,11,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,140,38,Cirugía + Quimioterapia + Radioterapia,Vivo
+797,2018,50,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,58,64,Cirugía + Quimioterapia,Vivo
+798,2018,3,Valle del Cauca,Buga,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,104,40,Cirugía + Quimioterapia,Vivo
+799,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Otros carcinomas,Sin dato,61,21,Solo Cirugía,Vivo
+800,2018,11,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,61,42,Cirugía + Quimioterapia + Radioterapia,Vivo
+801,2018,16,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,127,14,Cirugía + Quimioterapia + Radioterapia,Vivo
+802,2018,18,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,39,35,Cirugía + Quimioterapia + Radioterapia,Vivo
+803,2018,30,Valle del Cauca,Buga,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,65,32,Cirugía + Quimioterapia,Vivo
+804,2018,48,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Estadio IV,41,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+805,2018,10,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,42,30,Solo Cirugía,Vivo
+806,2018,18,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,47,8,Cirugía + Quimioterapia,Vivo
+807,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,72,22,Cirugía + Quimioterapia,Vivo
+808,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,41,35,Cirugía + Quimioterapia + Radioterapia,Vivo
+809,2018,36,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,164,37,Cirugía + Quimioterapia + Radioterapia,Vivo
+810,2018,13,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,29,16,Cirugía + Quimioterapia + Radioterapia,Vivo
+811,2018,46,Valle del Cauca,Florida,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal in situ,Estadio III,51,80,Cirugía + Quimioterapia,Vivo
+812,2018,3,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,42,18,Cirugía + Quimioterapia + Radioterapia,Vivo
+813,2018,10,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,192,65,Solo Quimioterapia,Vivo
+814,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,70,44,Cirugía + Quimioterapia,Vivo
+815,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,137,21,Solo Quimioterapia,Vivo
+816,2018,27,Valle del Cauca,Palmira,Rural Disperso,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,18,114,Solo Cirugía,Vivo
+817,2018,46,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,74,14,Cirugía + Quimioterapia,Vivo
+818,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,122,63,Solo Cirugía,Vivo
+819,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,64,66,Quimioterapia + Radioterapia,Vivo
+820,2018,46,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,141,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+821,2018,42,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,39,87,Cirugía + Radioterapia,Vivo
+822,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,186,27,Cirugía + Quimioterapia,Fallecido
+823,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,379,40,Cirugía + Quimioterapia + Radioterapia,Fallecido
+824,2018,6,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,45,39,Cirugía + Quimioterapia + Radioterapia,Vivo
+825,2018,43,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,42,30,Tratamiento paliativo,Vivo
+826,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,193,58,Solo Cirugía,Vivo
+827,2018,39,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,213,57,Cirugía + Quimioterapia,Vivo
+828,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,39,9,Cirugía + Quimioterapia + Radioterapia,Vivo
+829,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,43,82,Cirugía + Quimioterapia,Vivo
+830,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,48,10,Cirugía + Quimioterapia + Radioterapia,Vivo
+831,2018,37,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma lobulillar invasivo,Sin dato,20,68,Cirugía + Quimioterapia + Radioterapia,Vivo
+832,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,28,72,Cirugía + Quimioterapia + Radioterapia,Vivo
+833,2018,18,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,27,15,Cirugía + Quimioterapia + Radioterapia,Vivo
+834,2018,21,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,32,24,Cirugía + Quimioterapia + Radioterapia,Vivo
+835,2018,2,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal in situ,Estadio IV,58,15,Cirugía + Quimioterapia + Radioterapia,Vivo
+836,2018,43,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,72,28,Tratamiento paliativo,Fallecido
+837,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,208,26,Cirugía + Radioterapia,Vivo
+838,2018,40,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,27,57,Quimioterapia + Radioterapia,Vivo
+839,2018,36,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,132,82,Cirugía + Radioterapia,Vivo
+840,2018,50,Valle del Cauca,Buga,Rural Disperso,Mujer,70-74,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,50,87,Solo Quimioterapia,Vivo
+841,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,57,22,Cirugía + Quimioterapia + Radioterapia,Vivo
+842,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,103,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+843,2018,15,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,24,10,Cirugía + Quimioterapia,Vivo
+844,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio I,81,18,Cirugía + Radioterapia,Vivo
+845,2018,18,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,68,65,Cirugía + Quimioterapia + Radioterapia,Vivo
+846,2018,34,Valle del Cauca,La Unión,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,89,102,Solo Quimioterapia,Vivo
+847,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Indeterminado,Carcinoma ductal invasivo,Estadio II,76,13,Cirugía + Quimioterapia + Radioterapia,Vivo
+848,2018,11,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,430,21,Cirugía + Quimioterapia,Vivo
+849,2018,13,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,36,32,Cirugía + Quimioterapia + Radioterapia,Vivo
+850,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,39,40,Solo Quimioterapia,Vivo
+851,2018,22,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,36,18,Quimioterapia + Radioterapia,Vivo
+852,2018,7,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,38,44,Cirugía + Quimioterapia + Radioterapia,Vivo
+853,2018,43,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,36,23,Tratamiento paliativo,Vivo
+854,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio II,156,32,Quimioterapia + Radioterapia,Vivo
+855,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,187,48,Cirugía + Quimioterapia,Vivo
+856,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,38,33,Cirugía + Quimioterapia,Vivo
+857,2018,15,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,31,24,Cirugía + Quimioterapia + Radioterapia,Vivo
+858,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Otros carcinomas,Estadio II,87,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+859,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,38,31,Quimioterapia + Radioterapia,Vivo
+860,2018,14,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal in situ,Estadio III,100,25,Cirugía + Quimioterapia + Radioterapia,Vivo
+861,2018,38,Valle del Cauca,Sevilla,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,70,27,Cirugía + Quimioterapia + Radioterapia,Vivo
+862,2018,50,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal in situ,Estadio III,17,101,Solo Cirugía,Vivo
+863,2018,1,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,208,49,Quimioterapia + Radioterapia,Vivo
+864,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,253,26,Cirugía + Quimioterapia,Vivo
+865,2018,38,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,36,53,Cirugía + Quimioterapia + Radioterapia,Vivo
+866,2018,21,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,44,26,Quimioterapia + Radioterapia,Vivo
+867,2018,48,Valle del Cauca,Buga,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,75,75,Cirugía + Quimioterapia,Vivo
+868,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,25-29,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio I,78,42,Cirugía + Quimioterapia,Vivo
+869,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,102,30,Quimioterapia + Radioterapia,Vivo
+870,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,301,45,Cirugía + Quimioterapia,Vivo
+871,2018,10,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,52,11,Quimioterapia + Radioterapia,Vivo
+872,2018,28,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,31,15,Tratamiento paliativo,Vivo
+873,2018,21,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,40-44,Afrocolombiano,Contributivo,Carcinoma lobulillar invasivo,Estadio II,20,14,Tratamiento paliativo,Vivo
+874,2018,50,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,33,36,Solo Quimioterapia,Vivo
+875,2018,7,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,58,111,Cirugía + Quimioterapia + Radioterapia,Vivo
+876,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,253,157,Solo Cirugía,Vivo
+877,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,39,51,Cirugía + Radioterapia,Vivo
+878,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,72,47,Cirugía + Radioterapia,Vivo
+879,2018,20,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,59,9,Cirugía + Quimioterapia,Vivo
+880,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio II,156,22,Cirugía + Quimioterapia,Vivo
+881,2018,35,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,455,19,Cirugía + Quimioterapia,Vivo
+882,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,39,21,Tratamiento paliativo,Vivo
+883,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,40,29,Tratamiento paliativo,Vivo
+884,2018,1,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,139,23,Cirugía + Quimioterapia,Vivo
+885,2018,4,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,104,8,Solo Cirugía,Vivo
+886,2018,12,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,264,55,Cirugía + Quimioterapia + Radioterapia,Vivo
+887,2018,27,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,96,15,Solo Cirugía,Vivo
+888,2018,42,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,45,39,Cirugía + Quimioterapia + Radioterapia,Vivo
+889,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Sin dato,96,141,Solo Quimioterapia,Vivo
+890,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,146,17,Cirugía + Quimioterapia + Radioterapia,Vivo
+891,2018,21,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,116,5,Cirugía + Quimioterapia + Radioterapia,Vivo
+892,2018,52,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,90,27,Cirugía + Quimioterapia + Radioterapia,Vivo
+893,2018,24,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,141,71,Cirugía + Radioterapia,Vivo
+894,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Otros carcinomas,Estadio III,153,130,Solo Quimioterapia,Fallecido
+895,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma lobulillar invasivo,Sin dato,182,14,Cirugía + Quimioterapia,Vivo
+896,2018,46,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,101,46,Cirugía + Quimioterapia,Vivo
+897,2018,32,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Otros carcinomas,Estadio I,52,23,Cirugía + Quimioterapia,Vivo
+898,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,67,30,Cirugía + Quimioterapia,Vivo
+899,2018,5,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Excepción,Carcinoma lobulillar in situ,Estadio II,158,210,Cirugía + Quimioterapia + Radioterapia,Fallecido
+900,2018,36,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,31,11,Cirugía + Quimioterapia,Vivo
+901,2018,46,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,55-59,Afrocolombiano,Subsidiado,Carcinoma ductal invasivo,Estadio IV,81,39,Cirugía + Radioterapia,Vivo
+902,2018,42,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,44,45,Cirugía + Quimioterapia,Vivo
+903,2018,49,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,61,70,Cirugía + Quimioterapia + Radioterapia,Vivo
+904,2018,42,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio III,167,35,Cirugía + Quimioterapia + Radioterapia,Vivo
+905,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,70,41,Cirugía + Radioterapia,Vivo
+906,2018,16,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,62,25,Cirugía + Quimioterapia,Vivo
+907,2018,33,Valle del Cauca,Cali,Rural Disperso,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,20,39,Solo Quimioterapia,Vivo
+908,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Afrocolombiano,Subsidiado,Carcinoma ductal invasivo,Estadio I,109,26,Quimioterapia + Radioterapia,Vivo
+909,2018,21,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio II,101,51,Cirugía + Quimioterapia + Radioterapia,Vivo
+910,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Otros carcinomas,Sin dato,340,25,Cirugía + Quimioterapia,Vivo
+911,2018,6,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,47,43,Cirugía + Quimioterapia + Radioterapia,Vivo
+912,2018,51,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,71,32,Cirugía + Radioterapia,Vivo
+913,2018,45,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Otros carcinomas,Estadio II,73,72,Cirugía + Quimioterapia + Radioterapia,Vivo
+914,2018,35,Valle del Cauca,Cali,Rural Disperso,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,213,31,Cirugía + Quimioterapia + Radioterapia,Vivo
+915,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,55,9,Cirugía + Quimioterapia + Radioterapia,Vivo
+916,2018,22,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,75,80,Cirugía + Quimioterapia + Radioterapia,Fallecido
+917,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,98,17,Cirugía + Quimioterapia + Radioterapia,Vivo
+918,2018,5,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,70,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+919,2018,42,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,42,21,Cirugía + Quimioterapia + Radioterapia,Vivo
+920,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Otros carcinomas,Estadio IV,70,86,Solo Quimioterapia,Vivo
+921,2018,17,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,142,7,Cirugía + Quimioterapia,Vivo
+922,2018,12,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,26,297,Tratamiento paliativo,Vivo
+923,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,67,69,Cirugía + Quimioterapia + Radioterapia,Vivo
+924,2018,16,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Indígena,Contributivo,Carcinoma ductal invasivo,Estadio I,34,38,Cirugía + Quimioterapia,Vivo
+925,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Otros carcinomas,Estadio II,156,31,Quimioterapia + Radioterapia,Vivo
+926,2018,30,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,17,40,Quimioterapia + Radioterapia,Vivo
+927,2018,22,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal in situ,Estadio II,38,47,Cirugía + Quimioterapia + Radioterapia,Vivo
+928,2018,9,Valle del Cauca,Buga,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,81,52,Cirugía + Quimioterapia + Radioterapia,Vivo
+929,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,211,48,Quimioterapia + Radioterapia,Vivo
+930,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,57,35,Solo Cirugía,Fallecido
+931,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,38,28,Cirugía + Radioterapia,Vivo
+932,2018,23,Valle del Cauca,Otros municipios,Rural Disperso,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,271,29,Cirugía + Radioterapia,Vivo
+933,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio II,18,28,Solo Cirugía,Vivo
+934,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio I,10,73,Cirugía + Quimioterapia,Vivo
+935,2018,46,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,85,50,Tratamiento paliativo,Vivo
+936,2018,52,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,40,4,Cirugía + Quimioterapia,Vivo
+937,2018,47,Valle del Cauca,Buga,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio II,26,52,Cirugía + Quimioterapia + Radioterapia,Vivo
+938,2018,48,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal in situ,Sin dato,106,37,Quimioterapia + Radioterapia,Vivo
+939,2018,23,Valle del Cauca,Cali,Cabecera Municipal,Mujer,25-29,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,73,32,Cirugía + Quimioterapia,Vivo
+940,2018,45,Valle del Cauca,Cali,Rural Disperso,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,38,25,Solo Cirugía,Vivo
+941,2018,17,Valle del Cauca,Buga,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,21,72,Cirugía + Radioterapia,Fallecido
+942,2018,40,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,121,64,Cirugía + Quimioterapia,Fallecido
+943,2018,21,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,101,19,Solo Quimioterapia,Vivo
+944,2018,2,Valle del Cauca,Buga,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,55,44,Cirugía + Quimioterapia,Vivo
+945,2018,37,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,264,16,Cirugía + Quimioterapia + Radioterapia,Vivo
+946,2018,6,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,25,12,Solo Cirugía,Vivo
+947,2018,44,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,17,21,Cirugía + Quimioterapia,Vivo
+948,2018,18,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,34,60,Cirugía + Quimioterapia,Vivo
+949,2018,30,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,58,64,Cirugía + Quimioterapia,Vivo
+950,2018,22,Valle del Cauca,Zarzal,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,73,47,Cirugía + Quimioterapia,Vivo
+951,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,49,55,Cirugía + Quimioterapia,Vivo
+952,2018,30,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,45-49,Otro,Excepción,Carcinoma lobulillar invasivo,Estadio II,79,47,Cirugía + Quimioterapia,Vivo
+953,2018,17,Valle del Cauca,Cali,Rural Disperso,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,22,21,Cirugía + Quimioterapia + Radioterapia,Vivo
+954,2018,43,Valle del Cauca,Florida,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,191,44,Cirugía + Quimioterapia + Radioterapia,Vivo
+955,2018,32,Valle del Cauca,Florida,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,56,57,Tratamiento paliativo,Vivo
+956,2018,42,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,147,56,Cirugía + Quimioterapia,Vivo
+957,2018,51,Valle del Cauca,Florida,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,79,76,Cirugía + Radioterapia,Fallecido
+958,2018,14,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio II,86,54,Cirugía + Quimioterapia,Vivo
+959,2018,10,Valle del Cauca,Cali,Rural Disperso,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,95,42,Cirugía + Quimioterapia + Radioterapia,Vivo
+960,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,86,70,Quimioterapia + Radioterapia,Fallecido
+961,2018,51,Valle del Cauca,Buga,Rural Disperso,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,100,32,Cirugía + Quimioterapia,Vivo
+962,2018,36,Valle del Cauca,Cali,Rural Disperso,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,174,17,Cirugía + Quimioterapia + Radioterapia,Vivo
+963,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,70,29,Cirugía + Quimioterapia + Radioterapia,Vivo
+964,2018,9,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,106,19,Solo Cirugía,Vivo
+965,2018,42,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,56,20,Solo Cirugía,Vivo
+966,2018,28,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,40-44,Otro,Subsidiado,Otros carcinomas,Estadio II,190,29,Solo Cirugía,Vivo
+967,2018,11,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,35,19,Cirugía + Quimioterapia + Radioterapia,Vivo
+968,2018,14,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,254,26,Cirugía + Radioterapia,Vivo
+969,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,58,8,Quimioterapia + Radioterapia,Vivo
+970,2018,47,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio III,19,38,Cirugía + Quimioterapia,Fallecido
+971,2018,19,Valle del Cauca,Roldanillo,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,66,33,Tratamiento paliativo,Vivo
+972,2018,15,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,34,18,Solo Quimioterapia,Vivo
+973,2018,28,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,118,52,Solo Cirugía,Vivo
+974,2018,24,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,35,63,Cirugía + Quimioterapia,Vivo
+975,2018,8,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Otros carcinomas,Estadio II,42,10,Cirugía + Radioterapia,Vivo
+976,2018,43,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,13,19,Cirugía + Quimioterapia + Radioterapia,Vivo
+977,2018,9,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Otros carcinomas,Estadio III,42,19,Cirugía + Quimioterapia,Vivo
+978,2018,47,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,8,17,Cirugía + Quimioterapia + Radioterapia,Vivo
+979,2018,33,Valle del Cauca,Otros municipios,Rural Disperso,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,16,59,Cirugía + Quimioterapia + Radioterapia,Vivo
+980,2018,33,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,110,28,Cirugía + Quimioterapia + Radioterapia,Vivo
+981,2018,19,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,113,27,Cirugía + Quimioterapia + Radioterapia,Vivo
+982,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,84,8,Solo Cirugía,Vivo
+983,2018,10,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,27,51,Cirugía + Radioterapia,Vivo
+984,2018,40,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,58,13,Cirugía + Quimioterapia,Vivo
+985,2018,47,Valle del Cauca,Buga,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal in situ,Estadio I,60,34,Cirugía + Quimioterapia + Radioterapia,Vivo
+986,2018,42,Valle del Cauca,Cali,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio IV,23,40,Cirugía + Radioterapia,Vivo
+987,2018,1,Valle del Cauca,Florida,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,200,85,Cirugía + Quimioterapia,Vivo
+988,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,121,13,Cirugía + Radioterapia,Vivo
+989,2018,50,Valle del Cauca,Buga,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,50,4,Cirugía + Quimioterapia + Radioterapia,Vivo
+990,2018,34,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,61,37,Cirugía + Quimioterapia,Vivo
+991,2018,51,Valle del Cauca,Florida,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,71,116,Solo Quimioterapia,Vivo
+992,2018,13,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,35-39,Otro,Indeterminado,Carcinoma ductal invasivo,Estadio IV,11,78,Cirugía + Quimioterapia + Radioterapia,Fallecido
+993,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,49,38,Cirugía + Radioterapia,Vivo
+994,2018,34,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,34,23,Cirugía + Quimioterapia,Vivo
+995,2018,29,Valle del Cauca,Yumbo,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,27,58,Cirugía + Quimioterapia,Vivo
+996,2018,48,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,48,16,Cirugía + Quimioterapia,Vivo
+997,2018,47,Valle del Cauca,Cali,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,254,46,Cirugía + Quimioterapia + Radioterapia,Vivo
+998,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,100,47,Cirugía + Quimioterapia + Radioterapia,Vivo
+999,2018,48,Valle del Cauca,Buga,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal in situ,Estadio I,38,69,Quimioterapia + Radioterapia,Vivo
+1000,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,95,228,Cirugía + Quimioterapia,Vivo
+1001,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Otros carcinomas,Estadio III,184,43,Cirugía + Radioterapia,Vivo
+1002,2018,39,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,126,23,Tratamiento paliativo,Vivo
+1003,2018,24,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,65-69,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,63,32,Tratamiento paliativo,Vivo
+1004,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Subsidiado,Carcinoma lobulillar in situ,Estadio III,35,9,Cirugía + Quimioterapia,Vivo
+1005,2018,17,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,105,20,Cirugía + Quimioterapia + Radioterapia,Vivo
+1006,2018,7,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,82,24,Solo Quimioterapia,Vivo
+1007,2018,13,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,123,22,Solo Cirugía,Vivo
+1008,2018,5,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,100,36,Cirugía + Quimioterapia + Radioterapia,Vivo
+1009,2018,26,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,139,18,Quimioterapia + Radioterapia,Vivo
+1010,2018,49,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,70-74,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,39,72,Cirugía + Radioterapia,Vivo
+1011,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,173,33,Cirugía + Quimioterapia + Radioterapia,Vivo
+1012,2018,7,Valle del Cauca,Cartago,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma ductal in situ,Estadio II,70,32,Cirugía + Radioterapia,Vivo
+1013,2018,49,Valle del Cauca,Buga,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,317,26,Solo Cirugía,Vivo
+1014,2018,39,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar invasivo,Estadio III,34,36,Cirugía + Quimioterapia + Radioterapia,Vivo
+1015,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,241,59,Solo Cirugía,Vivo
+1016,2018,49,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio II,70,18,Cirugía + Quimioterapia,Vivo
+1017,2018,17,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,35-39,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio IV,35,20,Cirugía + Quimioterapia,Vivo
+1018,2018,43,Valle del Cauca,Cali,Rural Disperso,Mujer,75-79,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,40,26,Cirugía + Quimioterapia,Vivo
+1019,2018,25,Valle del Cauca,Cali,Cabecera Municipal,Mujer,50-54,Afrocolombiano,Contributivo,Carcinoma ductal invasivo,Estadio IV,46,12,Solo Quimioterapia,Vivo
+1020,2018,3,Valle del Cauca,Cali,Cabecera Municipal,Mujer,80 y más,Otro,Contributivo,Carcinoma ductal invasivo,Estadio IV,84,18,Cirugía + Radioterapia,Vivo
+1021,2018,15,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio II,91,23,Cirugía + Quimioterapia + Radioterapia,Fallecido
+1022,2018,29,Valle del Cauca,Cali,Cabecera Municipal,Mujer,70-74,Otro,Contributivo,Otros carcinomas,Estadio III,38,61,Solo Cirugía,Vivo
+1023,2018,43,Valle del Cauca,Cali,Cabecera Municipal,Mujer,65-69,Otro,Subsidiado,Otros carcinomas,Estadio I,59,39,Cirugía + Quimioterapia,Vivo
+1024,2018,32,Valle del Cauca,Cali,Cabecera Municipal,Mujer,45-49,Otro,Contributivo,Carcinoma ductal invasivo,Sin dato,334,37,Cirugía + Quimioterapia,Vivo
+1025,2018,26,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio II,240,60,Cirugía + Quimioterapia + Radioterapia,Vivo
+1026,2018,16,Valle del Cauca,Cali,Cabecera Municipal,Mujer,30-34,Otro,Contributivo,Carcinoma ductal invasivo,Estadio I,85,30,Cirugía + Radioterapia,Vivo
+1027,2018,25,Valle del Cauca,Jamundí,Cabecera Municipal,Mujer,60-64,Otro,Contributivo,Otros carcinomas,Sin dato,62,43,Solo Cirugía,Vivo
+1028,2018,28,Valle del Cauca,Candelaria,Cabecera Municipal,Mujer,50-54,Otro,Contributivo,Otros carcinomas,Sin dato,66,30,Cirugía + Quimioterapia + Radioterapia,Vivo
+1029,2018,9,Valle del Cauca,Tuluá,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio III,98,39,Cirugía + Quimioterapia + Radioterapia,Vivo
+1030,2018,1,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma lobulillar invasivo,Estadio III,26,22,Solo Quimioterapia,Vivo
+1031,2018,29,Valle del Cauca,Palmira,Cabecera Municipal,Mujer,40-44,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,49,6,Solo Cirugía,Vivo
+1032,2018,22,Valle del Cauca,Otros municipios,Cabecera Municipal,Mujer,35-39,Otro,Contributivo,Carcinoma ductal invasivo,Estadio II,15,30,Cirugía + Quimioterapia,Vivo
+1033,2018,16,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio I,83,89,Solo Cirugía,Vivo
+1034,2018,41,Valle del Cauca,Cali,Cabecera Municipal,Mujer,75-79,Otro,Subsidiado,Carcinoma ductal invasivo,Estadio III,101,63,Cirugía + Quimioterapia + Radioterapia,Vivo
+1035,2018,51,Valle del Cauca,Tuluá,Rural Disperso,Mujer,50-54,Otro,No Asegurado,Carcinoma ductal invasivo,Estadio III,40,65,Solo Quimioterapia,Vivo
+1036,2018,44,Valle del Cauca,Cali,Cabecera Municipal,Mujer,55-59,Otro,Contributivo,Carcinoma lobulillar in situ,Estadio III,212,78,Quimioterapia + Radioterapia,Vivo
